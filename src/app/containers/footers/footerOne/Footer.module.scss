@@ -1,0 +1,201 @@
+@import "../../../../../public/assets/scss/variables";
+
+.footerTop {
+    padding: 60px 0 60px;
+}
+
+.partnerLogo {
+    height: 30px;
+    width: auto;
+    margin-bottom: 15px;
+    margin-right: 10px;
+}
+
+.singleWidget {
+    .content {
+        p {
+            font-size: 14px;
+            line-height: 27px;
+            font-size: 14px;
+            font-weight: 600;
+
+            margin-top: 10px;
+            margin-bottom: 20px;
+
+            color: #152e4a !important;
+        }
+    }
+    .ftTitle {
+        font-size: 24px;
+        line-height: 40px;
+
+        position: relative;
+
+        margin-bottom: 10px;
+        padding-bottom: 12px;
+
+        color: #152e4a;
+        &::before {
+            position: absolute;
+            bottom: 0;
+            left: 0;
+
+            width: 170px;
+            height: 1px;
+
+            content: "";
+
+            background: #65788C none repeat scroll 0 0;
+        }
+    }
+    .ftContactLink {
+        margin: 0;
+        padding: 0;
+
+        list-style: outside none none;
+        li {
+            a {
+                font-size: 16px;
+                line-height: 42px;
+
+                transition: 0.3s;
+
+                color: #152e4a;
+                &:hover {
+                    color: $theme-color;
+                }
+            }
+        }
+    }
+}
+
+.copyright {
+    padding: 15px 0;
+    .copyrightInner {
+        p {
+            margin: 0;
+            font-size: 12px;
+            color: #62B1DE;
+        }
+    }
+}
+
+.socialIcon {
+    display: flex;
+    justify-content: flex-end;
+
+    margin: 0;
+    padding: 0;
+
+    list-style: outside none none;
+    li {
+        a.linkedinIn,
+        a.twitter,
+        a.facebookF,
+        a.instagram {
+            font-size: 22px;
+            line-height: 38px;
+
+            display: block;
+
+            width: 40px;
+            height: 40px;
+
+            transition: 0.3s;
+            text-align: center;
+
+            border-radius: 100%;
+            background: #02335B none repeat scroll 0 0;
+            &:hover {
+                background-color: $hover-color;
+                svg {
+                    color: #FFF;
+                }
+            }
+            svg  {
+                color:#82c7e6;
+                width: 14px;
+            }
+        }
+
+        a.facebookF {
+            svg {
+                width: 10px;
+            }
+        }
+
+        a.instagram {
+            svg {
+                width: 18px;
+            }
+        }
+
+        & + li {
+            margin-left: 15px;
+        }
+    }
+}
+
+.footer2 .singleWidget .ftTitle {
+    color: #152e4a;
+}
+
+.footer2 .singleWidget .content p,
+.footer2 .singleWidget .ftContactLink li a {
+    color: #035F91;
+}
+
+.footer2 .singleWidget .ftContactLink li a:hover {
+    color: $theme-color;
+}
+
+.footer2 .singleWidget .ftTitle::before {
+    background: #C7D8DE none repeat scroll 0 0;
+}
+
+@media #{$lg-layout} {
+    .singleWidget .ftTitle::before {
+        width: 140px;
+    }
+}
+
+@media #{$xs-layout} {
+    .copyright .copyrightInner p {
+        text-align: center;
+    }
+    .socialIcon {
+        display: flex;
+        justify-content: center;
+    }
+    .ftSocialLink {
+        padding-top: 15px;
+    }
+}
+
+
+/* // Small devices (landscape phones, 576px and up) */
+@media (max-width: 575.98px) { 
+}
+  
+/* // Medium devices (tablets, 768px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+}
+  
+/* // Large devices (desktops, 992px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+}
+  
+/* // X-Large devices (large desktops, 1200px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    .partnerLogo {
+        height: 20px;
+    }
+
+    .ftTitle {
+        font-size: 18px !important;
+    }
+}
+  
+/* // XX-Large devices (larger desktops, 1400px and up) */
+@media (min-width: 1200px) {
+}

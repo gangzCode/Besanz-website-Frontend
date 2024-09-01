@@ -1,0 +1,24 @@
+.comparison-table tr {
+    /* background-color: aqua; */
+    background: #FFF none repeat scroll 0 0;
+    box-shadow: 0 0 10px rgba(1, 15, 10, 0.1);
+    transition: all ease-in-out 300ms;
+    font-size: large;
+}
+
+.comparison-table .head-row{
+    background: #233146 none repeat scroll 0 0;
+    color: #FFF;
+    border-radius: 25px;
+   
+}
+
+.comparison-table .body-row:hover {
+    /* background:#81c1e1 none repeat scroll 0 0; */
+    /* background: linear-gradient(-90deg, #FCCEC8, #82c7e6) none repeat scroll 0 0; */
+    color: #FFF;
+    /* background: #233146 none repeat scroll 0 0; */
+ 
+   background-color: #82c7e6;
+    /* background: linear-gradient(-90deg, #FCCEC8, #82c7e6); */
+}

@@ -1,0 +1,27 @@
+.crm-link{
+    border-radius: 40px;
+    /* height: 40px; */
+    /* width: 200px; */
+    transition: all ease-in-out 300ms;
+    color: #233146;
+    /* font-family: monospace, serif; */
+    font-size: 20px;
+}
+
+.crm-link p {
+    color: #233146;
+    margin-bottom: 8px;
+}
+
+/* .crm-link:hover p{
+    color: white;
+} */
+
+.crm-link:hover{
+    /* background-color:#81c1e1 !important; */
+    /* background: rgba(0, 0, 0, 0) linear-gradient(-90deg, #FCCEC8, #82c7e6) repeat scroll 0 0 !important; */
+    /* background-color: #233146 ; */
+    /* background-color: ; */
+    box-shadow: 0 0 15px 0 rgba(50, 50, 50, 0.2);
+    /* color: white; */
+}

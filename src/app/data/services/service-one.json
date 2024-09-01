@@ -1,0 +1,46 @@
+[
+  {
+    "id": "1",
+    "title": {
+      "en":"T.38 Fax",
+      "es":"Fax T.38",
+      "fr":"Télécopieur T.38"
+    },
+    "text": {
+      "en":"T38Fax is an industry leading T.38 FoIP (fax over IP) provider. Connect any T.38-capable device to our network and experience reliable online fax services.",
+      "es":"T38Fax es un proveedor líder en la industria T.38 FoIP (fax sobre IP). Conecte cualquier dispositivo compatible con T.38 a nuestra red y experimente servicios de fax en línea confiables.",
+      "fr":"T38Fax est un fournisseur leader de FoIP T.38 (fax sur IP). Connectez n'importe quel appareil compatible T.38 à notre réseau et bénéficiez de services de fax en ligne fiables."
+    },
+    "icon": "s1.png"
+  },
+  {
+    "id": "2",
+    "title": {
+      "en":"Fax 2 eMail",
+      "es":"Fax 2 Correo electrónico",
+      "fr":"Télécopie 2 Courriel"
+    },
+    "text": {
+      "en":"Fax2Mail is a cloud-based faxing service that allows your employees to send and receive faxes as electronic messages directly from their existing email accounts – anytime, anywhere.",
+      "es":"Fax2Mail es un servicio de fax basado en la nube que permite a sus empleados enviar y recibir faxes como mensajes electrónicos directamente desde sus cuentas de correo electrónico existentes, en cualquier momento y en cualquier lugar.",
+      "fr":"Fax2Mail est un service de fax basé sur le cloud qui permet à vos employés d'envoyer et de recevoir des fax sous forme de messages électroniques directement à partir de leurs comptes de messagerie existants, à tout moment et en tout lieu."
+    },
+    "icon": "s2.png"
+  },
+  {
+    "id": "3",
+    "title": {
+      "en":"Toll Free Numbers",
+      "es":"Numéros sans frais",
+      "fr":"Números gratuitos"
+    },
+    "text": {
+      "en":"As the name suggests, a toll-free number makes it possible for your customers to call you free of charge.",
+      "es":"Como sugiere el nombre, un número gratuito hace posible que sus clientes lo llamen sin cargo.",
+      "fr":"Comme son nom l'indique, un numéro vert permet à vos clients de vous appeler gratuitement."
+    },
+  
+    "icon": "s3.png"
+  }
+  
+]

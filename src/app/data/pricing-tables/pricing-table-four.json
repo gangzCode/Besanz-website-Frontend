@@ -1,0 +1,43 @@
+[
+  {
+    "id": "1",
+    "planName": "BASIC",
+    "planPriceCurrency": "$",
+    "planPrice": "39.99",
+    "planPriceDuration": "/month",
+    "planFeatures": "<ul><li>Unlimited Calls*</li><li>Business Hours</li><li>Business Phone Numbers</li><li>Business SMS & MMS</li><li>Business SMS & MMS</li><li>Custom Music & Messages</li><li>Interactive Voice Response-IVR</li><li>Ring Groups</li><li>Softphone for Android,iOS</li><li>Team Messaging</li><li>Voicemail</li><li>Webphone</li></ul>",
+    "orderUrl": "/contact",
+    "featured": false
+  },
+  {
+    "id": "2",
+    "planName": "STANDARD",
+    "planPriceCurrency": "$",
+    "planPrice": "44.99",
+    "planPriceDuration": "/month",
+    "planFeatures": "<ul><li style=font-weight:bold;>EVERYTHING IN BASIC +</li><li>Business Apps & Integrations</li><li>Click-to-Dial</li><li>Email Reporting</li><li>Video Conferance Up to 25 others</li><li>Video Webinar Present to Up to 200 Viewer</li><li>Visual voicemail</li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li></ul>",
+    "orderUrl": "/contact",
+    "featured": false
+  },
+  {
+    "id": "3",
+    "planName": "PREMIUM",
+    "planPriceCurrency": "$",
+    "planPrice": "$54.99",
+    "planPriceDuration": "/month",
+    "planFeatures": "<ul><ul><li style=font-weight:bold;>EVERYTHING IN STANDARD +</li><li>Call Recordings</li><li>CRM Integrations (Salesforce, Zendesk, HubSpot, Zoho & more)</li><li>Microsoft Teams Integration</li><li>Unlimited Audio Conferencing**</li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li></ul>",
+    "orderUrl": "/contact",
+    "featured": false
+  },
+  {
+    "id": "4",
+    "planName": "ULTRA",
+    "planPriceCurrency": "$",
+    "planPrice": "69.99",
+    "planPriceDuration": "/month",
+    "planFeatures": "<ul><ul><li style=font-weight:bold;>EVERYTHING IN PREMIUM +</li><li>Advanced Analytics</li><li>Call Center Users</li><li>Call Monitoring</li><li>Call Whispering</li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li></ul>",
+    "orderUrl": "/contact",
+    "featured": false
+  } 
+  
+]

@@ -1,0 +1,87 @@
+
+{
+  "id": "1",
+  "title": {
+    "en":"Features at a Glance",
+    "es":"Características de un vistazo",
+    "fr":"Caractéristiques en un coup d'œil"
+  },
+  "subtitle": 
+  {
+    "en":"Most Popular",
+    "es":"Más popular",
+    "fr":"Le plus populaire"
+  },
+  "text": {
+    "en":"Auto Attendants",
+    "es":"Asistentes automáticos",
+    "fr":"Standards automatiques"
+  },
+  "text2": {
+    "en":"Hunt Groups",
+    "es":"Grupos de búsqueda",
+    "fr":"Groupes de recherche"
+  },
+  "text3":{
+    "en": "Custom Hold Music",
+    "es":"Música de espera personalizada",
+    "fr":"Musique d'attente personnalisée"
+  },
+  "text4": {
+    "en":"Extension Dialing",
+    "es":"Marcación de extensión",
+    "fr":"Numérotation de poste"
+  },
+  "text5": {
+    "en":"Call Transfer",
+    "es":"Transferencia de llamada",
+    "fr":"Transfert d'appel"
+  },
+  "text6": {
+    "en":"After Hours Call Routing",
+    "es":"Enrutamiento de llamadas fuera del horario de atención",
+    "fr":"Acheminement des appels après les heures d'ouverture"
+  },
+  "subtitle2": {
+    "en":"Advanced",
+    "es":"Avanzado",
+    "fr":"Avancé"
+  },
+  "text7": {
+    "en":"Operator Console",
+    "es":"Consola de operador",
+    "fr":"Console opérateur"
+  },
+  "text8": {
+    "en":"Company Directories",
+    "es":"Directorios de empresas",
+    "fr":"Annuaires d'entreprises"
+  },
+  "text9": {
+    "en":"ACD Call Queues",
+    "es":"Colas de llamadas ACD",
+    "fr":"Files d'attente d'appels ACD"
+  },
+  "text10": {
+    "en":"CRM Integration",
+    "es":"Integración CRM",
+    "fr":"Intégration CRM"
+  },
+  "text11": {
+    "en":"Automatic Failover",
+    "es":"Colas de llamadas ACD",
+    "fr":"Files d'attente d'appels ACD"
+  },
+  "text12": {
+    "en":"Click to Call",
+    "es":"Haz clic para llamar",
+    "fr":"Cliquez pour appeler"
+  }
+}
+
+
+
+ 
+
+
+

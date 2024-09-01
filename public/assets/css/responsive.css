@@ -1,0 +1,366 @@
+.responsive-breakpoint {
+    padding: 10px;
+    color: white;
+    position: fixed;
+    left: 50%;
+    top: 0;
+    z-index: 9999999;
+}
+
+/* // Small devices (landscape phones, 576px and up) */
+@media (max-width: 575.98px) { 
+  .responsive-breakpoint {background: red;}
+
+  .img-fluid {
+    height: 40px !important;
+  }
+
+  .topbarr {
+    height: 28px !important;
+    padding-top: 4px !important;
+  }
+
+  .mobile-aside-button {
+    line-height: 38px;
+    float: right;
+  }
+
+  .request-quote-wrap {
+    padding-left: 10px !important;
+  }
+
+  .home-top-section {
+    height: auto !important;
+    background-color: #F5F8FA !important;
+    background-image: none !important;
+    padding-top: 20px !important;
+    margin-top: 0px !important;
+  }
+
+  .h-price-selecter {
+    margin-bottom: 20px;
+}
+
+.m-breadcrumb {
+  height: 150px !important;
+  padding-top: 0px !important;
+}
+
+.m-serviceTitle h2 {
+  font-size: 32px !important;
+}
+
+.m-serviceTitle h3 {
+  font-size: 24px !important;
+  margin-bottom: 0px !important;
+}
+
+.m-breadcrumbTitle {
+  font-size: 32px !important;
+}
+
+.m-singleWidget img {
+  height: 20px;
+}
+
+.m-singleWidget .m-footerLogo {
+  height: 40px !important;
+}
+
+.comparison-table .head-row th {
+  font-size: 14px;
+  padding: 10px;
+}
+
+.comparison-table .body-row th {
+  font-size: 14px;
+}
+
+.m-service {
+  margin-bottom: 20px !important;
+}
+
+.m-product-review-imgWrap {
+  display: none;
+}
+
+.m-productStatistics {
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+  padding: 50px 0 !important;
+  height: auto !important;
+  background-color: #F5F8FA !important;
+  background-image: none !important;
+}
+
+.m-testimonial-imgWrap {
+  display: none;
+}
+
+.m-testimonials {
+  margin-top: 0 !important;
+}
+
+.m-benefit2 {
+  display: block !important;
+  width: 100% !important;
+}
+
+.m-requestQuoteWrap {
+  padding: 0 !important;
+}
+
+.m-requestQuote {
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+  padding: 50px 0 !important;
+  height: auto !important;
+  background-color: #F5F8FA !important;
+  background-image: none !important;
+}
+
+.m-blog-Serarch {
+  margin-top: 40px;
+}
+
+.m-videoContent {
+  margin-left: 0 !important;
+}
+
+.video-card {
+  width: 100% !important;
+  height: 250px !important;
+}
+  
+}
+
+/* // Medium devices (tablets, 768px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+  .responsive-breakpoint {background: green;} 
+
+  .img-fluid {
+    height: 40px !important;
+  }
+
+  .topbarr {
+    height: 28px !important;
+    padding-top: 4px !important;
+  }
+
+  .mobile-aside-button {
+    line-height: 38px;
+    float: right;
+  }
+
+  .request-quote-wrap {
+    padding-left: 10px !important;
+  }
+
+  .home-top-section {
+    height: auto !important;
+  }
+
+  .h-price-selecter {
+    margin-bottom: 20px;
+}
+
+.m-breadcrumb {
+  height: 150px !important;
+  padding-top: 0px !important;
+}
+
+.m-serviceTitle h2 {
+  font-size: 32px !important;
+}
+
+.m-serviceTitle h3 {
+  font-size: 24px !important;
+  margin-bottom: 0px !important;
+}
+
+.m-breadcrumbTitle {
+  font-size: 32px !important;
+}
+
+.m-singleWidget img {
+  height: 20px;
+}
+
+.m-singleWidget .m-footerLogo {
+  height: 40px !important;
+}
+
+.comparison-table .head-row th {
+  font-size: 14px;
+  padding: 10px;
+}
+
+.comparison-table .body-row th {
+  font-size: 14px;
+}
+
+.m-service {
+  margin-bottom: 20px !important;
+}
+
+.m-product-review-imgWrap {
+  display: none;
+}
+
+.m-productStatistics {
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+  padding: 50px 0 !important;
+  height: auto !important;
+  background-color: #F5F8FA !important;
+  background-image: none !important;
+}
+
+.m-testimonial-imgWrap {
+  display: none;
+}
+
+.m-testimonials {
+  margin-top: 0 !important;
+}
+
+.m-benefit2 {
+  display: block !important;
+  width: 100% !important;
+}
+
+.m-requestQuoteWrap {
+  padding: 0 !important;
+}
+
+.m-requestQuote {
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+  padding: 50px 0 !important;
+  height: auto !important;
+  background-color: #F5F8FA !important;
+  background-image: none !important;
+}
+
+.m-blog-Serarch {
+  margin-top: 40px;
+}
+
+.video-card {
+  width: 100% !important;
+  height: 250px !important;
+  margin-bottom: 20px !important;
+}
+
+}
+
+/* // Large devices (desktops, 992px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+  .responsive-breakpoint {background: blue;}
+
+  .img-fluid {
+    height: 40px !important;
+  }
+
+  .topbarr {
+    height: 28px !important;
+    padding-top: 4px !important;
+  }
+
+  .mobile-aside-button {
+    line-height: 38px;
+    float: right;
+  }
+
+  .request-quote-wrap {
+    padding-left: 10px !important;
+  }
+
+  .home-top-section {
+    height: auto !important;
+  }
+
+  .h-price-selecter {
+    margin-bottom: 20px;
+}
+
+.m-service {
+  margin-bottom: 20px !important;
+}
+
+.m-product-review-imgWrap {
+  display: none;
+}
+
+.m-productStatistics {
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+  padding: 50px 0 !important;
+  height: auto !important;
+  background-color: #F5F8FA !important;
+  background-image: none !important;
+}
+
+.m-testimonial-imgWrap {
+  display: none;
+}
+
+.m-testimonials {
+  margin-top: 0 !important;
+}
+
+.m-benefit2 {
+  display: block !important;
+  width: 100% !important;
+}
+
+.m-requestQuoteWrap {
+  padding: 0 !important;
+}
+
+.m-requestQuote {
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+  padding: 50px 0 !important;
+  height: auto !important;
+  background-color: #F5F8FA !important;
+  background-image: none !important;
+}
+
+.m-blog-Serarch {
+  margin-top: 40px;
+}
+
+.m-videoContent {
+  margin-left: 0 !important;
+}
+
+.video-card {
+  margin-bottom: 20px !important;
+}
+
+}
+
+/* // X-Large devices (large desktops, 1200px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+  .responsive-breakpoint {background: orange;}
+
+  .home-top-section {
+    background-size: 100% 100% !important;
+  }
+
+  .m-product-review-imgWrap {
+    width: 500px !important;
+  } 
+
+  .m-testimonial-imgWrap {
+    width: 300px !important;
+    height: 400px !important;
+  }
+}
+
+/* // XX-Large devices (larger desktops, 1400px and up) */
+@media (min-width: 1200px) {
+  .responsive-breakpoint {background: pink;}
+}
+

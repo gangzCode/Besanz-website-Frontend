@@ -1,0 +1,19 @@
+{
+  "id": "1",
+  "image": "aboutus.png",
+  "title": {
+    "en":"We Believe in The Power of Customer Satisfaction.",
+    "es":"Creemos en el poder de la satisfacción del cliente",
+    "fr":"Nous croyons au pouvoir de la satisfaction client."
+  },
+  "text": {
+    "en":"We want to empower every business and its professionals so that they have better and meaningful business conversations, solutions, and drive beyond expectations!",
+    "es":"¡Queremos empoderar a todas las empresas y sus profesionales para que tengan mejores y significativas conversaciones comerciales, soluciones y superen las expectativas!",
+    "fr":"Nous voulons donner à chaque entreprise et à ses professionnels les moyens d'avoir des conversations et des solutions professionnelles meilleures et significatives et de dépasser les attentes !"
+  },
+  "content": {
+    "en":"<p>We at Besanz are on a mission to transform your business with powerful tools that automate, integrate, and provide you with the ability to collaborate amongst your team, giving you the cutting edge by providing you with custom built analytics that help you grow as a customer centric business.</p>",
+    "es":"<p>En Besanz tenemos la misión de transformar su negocio con herramientas poderosas que automatizan, integran y le brindan la capacidad de colaborar entre su equipo, brindándole la vanguardia al brindarle análisis personalizados que lo ayudan a crecer como cliente. negocio céntrico.</p>",
+    "fr":"<p>Chez Besanz, nous avons pour mission de transformer votre entreprise avec des outils puissants qui automatisent, intègrent et vous offrent la possibilité de collaborer au sein de votre équipe, vous donnant la pointe en vous fournissant des analyses personnalisées qui vous aident à grandir en tant que client. entreprise centrée.</p>"
+  }
+}

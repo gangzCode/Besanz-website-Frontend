@@ -1,0 +1,83 @@
+[
+  {
+    "title":"IMPORTANT VoIP 9-1-1 EMERGENCY CALL INFORMATION",
+    "titleNo":"",
+    "sections":[
+      {
+        "sectionNo":"",
+        "sectionName":"Placing a VoIP 9-1-1 Emergency Call",
+        "p":[
+          "If you make a VoIP 9-1-1 emergency call, BESANZ will attempt to automatically route your 9-1-1 call, through a third-party call center opertor, to the Public Safety Answering Point (PSAP) corresponding to your 9-1-1 address of record in the BESANZ portal. However, due to the limitations of the VoIP 9-1-1 emergency call service, your 9-1-1 call may be routed to a different location than that which would be used for traditional 9-1-1 emergency call. For example, your call will be forwarded to a third-party call center that handles emergency calls. This call center is different from the Public Safety Answering Point (PSAP) that answers a traditional 9-1-1 emergency call which has automatically generated 9-1-1 address information. Consequently, you will be required to provide your name, address, and telephone number to the third-party call center operator."
+          
+        ]
+      },
+      {
+        "sectionNo":"",
+        "sectionName":"How your VoIP 9-1-1 information is provided",
+        "p":[
+          "BESANZ attempts to automatically provide the PSAP dispatcher or the third-party call center operator your name, address and telephone number, based on your 9-1-1 address of record in the BESANZ portal. However, for technical reasons, the dispatcher receiving the call may not be able to capture or retain your name, address, or phone number. When making a 9-1-1 emergency call, be prepared to immediately provide your name, address, and phone number, or the location of the emergency if it is different from your location, as the operator may not have this information. If you are unable to speak, the dispatcher may not be able to locate you if your 9-1-1 address of record in the BESANZ portal is incorrect."
+        ]
+      },{
+        "sectionNo":"",
+        "sectionName":"Correctness of VoIP emergency call information",
+        "p":[
+          "You are responsible for initially providing and promptly updating your 9-1-1 address of record in the BESANZ portal. Your 9-1-1 address of record information including your name, civic address, and your phone number. If you do not correctly provide your name, civic address, and phone number during a 9-1-1 emergency call, or if your 9-1-1 address of record in the BESANZ portal is incorrect, 9-1-1 calls may be misdirected to an incorrect emergency response site. For example, if you change the address from which you use the BESANZ VoIP service, access to the VoIP 9-1-1 emergency call Service will not function properly. Upon moving to a new address, or a change of use of phone service, you must update your 9-1-1 address of record in your BESANZ portal. Failure to update your 9-1-1 address of record in the BESANZ portal will adversely affect your ability to access 9-1-1 emergency services."
+        ]
+      },{
+        "sectionNo":"",
+        "sectionName":"Do not disconnect",
+        "p":[
+          "During the 9-1-1 emergency call, do not disconnect the call until told to do so by the dispatcher, as the dispatcher may not have your name, civic address, or phone number. If you are disconnected, call back immediately."
+        ]
+      },{
+        "sectionNo":"",
+        "sectionName":"VoIP 9-1-1 Emergency Calls Slower To Complete Compared to Traditional 9-1-1 Emergency Calls",
+        "p":[
+          "For technical and other reasons, including network congestion, it is possible that your BESANZ VoIP 9-1-1 emergency call will produce a busy signal or will take longer to connect when compared with traditional 9-1-1 emergency calls."
+        ]
+      },{
+        "sectionNo":"",
+        "sectionName":"VoIP 9-1-1 Emergency Calls May Fail or be Degraded",
+        "p":[
+          "Your Besanz VoIP 9-1-1 emergency calls may fail or be degraded for various reasons, including, but not limited to:",
+          "(a) Your location has lost power.",
+          "(b) Your Internet access is congested or has failed",
+          "(c) Your Local Area Network does not support or blocks the protocols that are required to complete VoIP 9-1-1 emergency calls.",
+          "(d) Your VoIP phone is misconfigured.",
+          "(e) Your VoIP service in your BESANZ portal is misconfigured",
+          "(f) The BESANZ VoIP service has failed",
+          "(g) You have terminated your BESANZ VoIP service.",
+          "(h) Your BESANZ VoIP service has been terminated by BESANZ due to billing issues.",
+          "(I) You have moved your VoIP phone to a new location and you have failed to update your 9-1-1 emergency call address of record in the BESANZ portal."
+        ]
+      },{
+        "sectionNo":"",
+        "sectionName":"Inform Other Users of the Limitations of VoIP 9-1-1 Emergency Calls",
+        "p":[
+          "You are responsible for ensuring that users and potential users of the BESANZ VoIP 9-1-1 Emergency service understand and accept the limitations of the VoIP 9-1-1 Emergency service described herein."
+        ]
+      },{
+        "sectionNo":"",
+        "sectionName":"Using Fixed Line and Cell Phones for 9-1-1 Emergency Calls",
+        "p":[
+          "BESANZ recommends that you use a fixed-line phone or cell phone to place 9-1-1 emergency calls."
+        ]
+      },{
+        "sectionName":"Limitations of VoIP 9-1-1 Emergency Call Service",
+        "sectionNo":"",
+        "p":[
+          "The VoIP 9-1-1 emergency call service is provisioned in a manner that cannot  guarantee that the caller’s address is in the exchange native to its telephone number.  According to telecom decision CRTC 2005-21, this type of telephone service is  classified as a Nomadic or Fixed Non-Native VoIP service due to the fact that the  endpoint (phone) location may change. BESANZ provides CUSTOMER and CUSTOMER End Users  with access to VoIP 9-1-1 emergency call services in accordance with this regulation,  so long as it remains in effect. BESANZ will continue to follow industry regulations,  guidance and best practices for the proper handling and treatment of 9-1-1 emergency  services for Nomadic and Fixed Non-Native VoIP Services as they evolve and are  adopted by the industry.",
+          "The Voip 9-1-1 emergency call service has certain limitations relative to the enhanced  9-1-1 service that is available on most traditional telephone services. These limitations  apply to BESANZ's VoIP 9-1-1 emergency call service.",
+          "9-1-1 emergency calls made using BESANZ's VoIP 9-1-1 emergency call service are routed  to third-party emergency services operators. When CUSTOMER and CUSTOMER End Users  make an BESANZ VoIP 9-1-1 emergency call, CUSTOMER and CUSTOMER End Users must verbally  provide the operator with the CUSTOMER's / CUSTOMER End User's' name, address, and phone  number to ensure that the emergency services operator can route the call to the  appropriate local 9-1-1 response centre serving the geographical area where the caller  is located.",
+          "The CUSTOMER's location must be provided to the operator as the VOIP service phone endpoint (phone) location may change.",
+          "CUSTOMER agrees that it is aware that 9-1-1 emergency calls that are made using BESANZ's VoIP services may take longer to be connected to the correct 9-1-1 Public Safety  Answering Point (PSAP) than calls made using a traditional wire line telephone service.  As well, the operation of BESANZ's VoIP services are subject to the availability of CUSTOMER and CUSTOMER End User networks, which may be affected by power outages, network  outages, network capacity limitations, or other interruptions which may impact  CUSTOMER's and CUSTOMER End User's ability to place 9-1-1 emergency calls. If CUSTOMER or CUSTOMER End Users make a remote VoIP-based 9-1-1 emergency call (i.e. a call made  from outside the local area network), from outside Canada, or from a location within  Canada that is not served by 9-1-1, the operator will not be able to complete this 9-1-1 emergency call",
+          "For these reasons, it is advisable to use a traditional wire line telephone or cell phone  for 9-1-1 emergency calls",
+          "CUSTOMER is obligation to inform CUSTOMER's End Users and potential users about the nature  and limitations of the BESANZ VoIP 9-1-1 emergency call service, as described above",
+          "BESANZ is not responsible or liable for any damages, costs, claims, losses or expenses  (including, without limitation, any indirect, special, consequential, incidental, economic  or punitive damages) that arise from, or are due to, any omissions, interruptions,  delays, errors or defects in transmission of any 9-1-1 emergency call that is made  using the BESANZ VoIP 9-1-1 emergency call service.",
+          "CUSTOMER is responsible for promptly maintaining CUSTOMER's and CUSTOMER End User's 9-1- 1 emergency call address of record information, including name, address, and phone  number, up to date in the BESANZ portal whenever the information changes, to address  demands from emergency services authorities whenever required by such authorities.  BESANZ is not responsible for maintaining CUSTOMER's and CUSTOMER End User's 9-1-1  emergency call address of record information up to date.",
+          "CUSTOMER and CUSTOMER End Users agree and acknowledge that the BESANZ VoIP 9-1-1  Emergency Call Service is not available in all areas where VoIP Service is available.  CUSTOMER acknowledges and accepts the limitations around the BESANZ VoIP 9-1-1  emergency call service."
+        ]
+      }
+    ]
+  }
+]

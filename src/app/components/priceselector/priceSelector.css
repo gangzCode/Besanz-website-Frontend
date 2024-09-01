@@ -1,0 +1,19 @@
+.tab{
+    margin-top: 20% !important;
+    color : #152e4a !important;
+    padding: 12px 14px !important;
+    width: 200px;
+    font-size: 18px !important;
+    border-radius: 30px !important;
+    text-transform: capitalize !important;
+    font-family: var(--mdb-font-roboto) !important;
+    margin: 0 1% !important;
+}
+
+.active-tab{
+    background-color:  #152e4a  !important ;
+    color: white !important;
+    border-radius: 30px !important;
+    padding: 12px 14px !important;
+    transition: all ease-in-out 300ms;
+}

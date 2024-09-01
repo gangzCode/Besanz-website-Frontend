@@ -1,0 +1,36 @@
+[
+    {
+     "title":"IMPORTANT 9-1-1 INFORMATION ",
+        "sections":[
+          {
+           
+            "p":[
+              "We want to make sure that you are aware of important differences in the way 9-1-1 service operates with a VoIP phone when compared with traditional telephone service. Here’s what you need to keepin mind:",
+              "By activating the Services, Customer acknowledges that you have read, understand and agree to these Terms and Conditions.  Besanz recommends that Customer print a copy of these Terms and Conditions."         
+            ]
+          },
+          {
+
+            "sectionName":"Differences between traditional 9-1-1 service and VoIP phone 9-1-1 ",
+            "p":[
+              "Because you can move your VoIP phone between locations and because, for technical reasons, the  emergency operator may not have your name, location or contact information available, you must  immediately inform the emergency operator of your location and contact particulars any time you call 9-1-1. Do not risk sending police or ambulance services to the wrong location."
+            ]
+          },{
+            "sectionName":"Be prepared during any service interruption",
+            "p":[
+              "VoIP phone service depends not only on your continued subscription (and payment) for the service, but also on Internet connectivity and power to function. In the event of power, network, or Internet outages (including congestion), or if your service is disconnected or suspended due to non-payment, you may experience a failure, disruption or delay in your 9-1-1 service. We recommend that you keep an alternative phone service (such as a cellular telephone) handy to increase the reliability of your access to emergency services during any service interruption."
+            ]
+          }
+          ,{
+            "sectionName":"Do not disconnect",
+            "p":[
+              "Until you are told to do so by an emergency dispatcher, do not disconnect your 9-1-1 call. If you are  inadvertently disconnected, call back immediately. ",
+              "Sincerely,",
+              "Besanz Team",
+              "l: 1-416-388-9955",
+              "t:1-855-388-9955"
+            ]
+          }
+        ]
+      }
+]

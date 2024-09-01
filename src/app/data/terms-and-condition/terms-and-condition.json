@@ -1,0 +1,793 @@
+[
+  {
+    "title":"General",
+    "titleNo":"1.0",
+    "sections":[
+      {
+        "sectionNo":"1.01",
+        "sectionName":"Terms and Conditions",
+        "p":[
+          "By using any of Besanz’s services including but not limited to, VoIP telephone services (“Services”), CUSTOMER AGREES TO BE BOUND BY THESE TERMS AND CONDITIONS OF SERVICE (“Terms and Conditions”).  These Terms and Conditions form an integral part of the agreement (“Agreement”) between 14501942 Canada Inc. (“Besanz”) and Customer of the Besanz Services.  These Terms and Conditions govern the Services and any device and/or equipment, such as telephones and telephone adapters used in conjunction with the Services (“Equipment”).  Customer acknowledges that the Equipment may be purchased by Customer and become Customer’s Equipment (as defined in Section 4) or be provided to Customer by Besanz under a rental arrangement, in which case, the Equipment shall be herein referred to as “Rental Equipment”.",
+          "By activating the Services, Customer acknowledges that you have read, understand and agree to these Terms and Conditions.  Besanz recommends that Customer print a copy of these Terms and Conditions."
+          
+        ]
+      },
+      {
+        "sectionNo":"1.02",
+        "sectionName":"Modification",
+        "p":[
+          "The Customer recognizes and accepts that these Terms and Conditions may be modified by Besanz, at its sole discretion at any time.  CUSTOMER’S NONTERMINATION OR CONTINUED USE OF THE SERVICES AFTER THE EFFECTIVE DATE OF ANY CHANGES MADE CONSTITUTES CUSTOMER’S ACCEPTANCE OF THESE TERMS AND CONDITIONS AS MODIFIED BY SUCH CHANGES"
+        ]
+      },{
+        "sectionNo":"1.03",
+        "sectionName":"Other Policies",
+        "p":[
+          "In addition to these Terms and Conditions, these Terms and Conditions are also subject to Besanz’s Privacy Policy found at insert_privacy_policy_link. Terms and conditions  applicable to the Services or as may be required by statute or regulation."
+        ]
+      }
+    ]
+  },
+  {
+    "titleNo":"2.0",
+    "title":"Services",
+    "sections":[
+      {
+        "sectionNo":"2.01",
+        "sectionName":"Use of the Services",
+        "p":[
+          "The Services may be used for residential and commercial purposes.  The Equipment, Rental Equipment, technology and/or processes provided to you may be subject to intellectual property rights reserved by Besanz or third parties.  Nothing contained in these Terms and Conditions shall grant you any right, license, title or ownership of, in or to any intellectual property rights of Besanz or any third party in such Equipment, Rental Equipment, software, technology or processes.  Besanz, Besanz the logo and certain product or service names are either owned by or licensed to Besanz.  Customer agrees not to copy, display or use in any manner any of Besanz’s trade-marks without Besanz’s express written consent."
+        ]
+      },
+      {
+        "sectionNo":"2.02",
+        "sectionName":"Type of Services",
+        "bullets":[
+          {
+            "desc":"The Terms and Conditions contained herein apply to all the Services which Customer may subscribe from Besanz, including, for:",
+            "list":[
+              {
+                "h":"Basic",
+                "text":"Includes Unlimited Calls, e911, Business Hours, Business Phone Numbers, Business SMS & MMS, Custom Music & Messages, Interactive Voice Response-IVR, Call Queues & Ring Groups, Voicemail to eMail"
+              },
+              {
+                "h":"Standard",
+                "text":"Includes everything in basic plus Business Apps & Integrations, Click-to-Dial, Email Reporting, Video Conference Up to 25 others, Video Webinar Present to Up to 200 Viewer,Softphone for Android, iOS, Webphone, Team Messaging and Visual Voicemail"
+              },
+              {
+                "h":"Premium",
+                "text":"Includes everything in Standard plus Call Recordings, CRM Integrations (Salesforce, Zendesk, HubSpot, Zoho & more), Microsoft Teams Integration, Unlimited Audio Conferencing"
+              },
+              {
+                "h":"Ultra",
+                "text":"Includes everything in the Premium plan plus Advanced Analytics, Call Center Users, Call Monitoring, Call Whispering"
+              }
+
+            
+            ]
+          },
+          {
+            "desc":"All the above plans collectively known as “Unlimited plans”.",
+            "list":[
+              {
+                "h":"Call Center Plan",
+                "text":"– Includes custom features upon request. None of the above plans will be applicable for use cases of call center, expect this plan. If a customer elects to subscribes to the above plan and plans, starts or operates a call center they will automatically be switched to the call center plan."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sectionNo":"2.03",
+        "sectionName":"Service Incompatibility.",
+        "p":[
+          "The Business Phone service may not be compatible with business security systems. Customer may be required to maintain a telephone connection through its local exchange carrier in order to use any alarm monitoring functions for any security system installed in its business.  Customer is responsible for contacting the alarm monitoring company to test the compatibility of any alarm monitoring or security system in your Business Phone service. The Business Phone service can work with most fax machines, however due to various device configurations, Internet connectivity and bandwidth fluctuations, faxing while using your Business Phone service is provided on a best efforts basis and Besanz assumes no liability whatsoever and provides no express or implied warranty with respect to the simultaneous use of the fax machine and the Business Phone service. "
+        ]
+      },
+      {
+        "sectionNo":"2.04",
+        "sectionName":"Services Interruption.",
+        "p":[
+          "Besanz may interrupt Services to Customer at any time for any length of time, without notice or liability, in order to install, inspect, repair, replace or to perform necessary maintenance on the telecommunications Equipment, facilities, network, or for other technical reasons, as may be required.  Besanz services are provided on a best efforts basis.  Subscriber acknowledges that Business Phone VoIP service requires high-speed Internet connectivity.  A poor or lack of Internet connectivity, power failure, computer viruses and other connectivity issues may cause Service interruption and or failure of the Services (“Connectivity Issues”).  It is the Customer’s sole responsibility to remedy any Connectivity Issues."
+        ]
+      },
+      {
+        "sectionNo":"2.05",
+        "sectionName":"Delivery of Services",
+        "p":[
+          "Customer shall submit to Besanz a properly completed Service Order to initiate Services to a Service Location(s). A Service Order shall become binding on the parties when (i) it is specifically accepted by Besanz either electronically or in writing, (ii) Besanz begins providing the Services described in the Service Order or (iii) Besanz begins Custom Installation for delivery of the Services described in the Service Order, whichever is earlier. When a Service Order becomes effective it shall be deemed part of, and shall be subject to, the Agreement. The Service order will contain key features and plans outlined in section 2.02."
+        ]
+      },
+      {
+        "sectionNo":"2.06",
+        "sectionName":"Disconnection of Services",
+        "p":[
+          "Besanz will due payment fifteen (15) days after the Invoice Date “Due Date”. If the invoice is not paid twenty-five (25) days after the Due Date all services will be suspended."
+        ]
+      }
+    ]
+  },
+  {
+    "titleNo":"3.0",
+    "title":"9-1-1 Dialing",
+    "sections":[
+      {
+        "sectionNo":"3.01",
+        "sectionName":"Non-Availability of Traditional 9-1-1 or E9-1-1 Dialing Service.",
+        "p":["Besanz offers on its Business Phone service a form of 9-1-1 Dialing service (9-1-1 Dialing) that is similar to traditional 9-1-1 (9-1-1) service but has some important differences and limitations when compared with enhanced 9-1-1 Dialing service (E9-1-1) available in most locations in conjunction with traditional telephone service. With both traditional 9-1-1 and E9-1-1 Dialing service, your call is sent directly to the nearest emergency response center. In addition, with E9-1-1 Dialing service, your call back number and address are visible to the emergency response center call-taker. With Business Phone’s 9-1-1 Dialing service, your call is sent to a national emergency call center. The call center operator will confirm your location information and then transfer your 9-1-1 call to the emergency response center nearest your location. You should be prepared to confirm your address and call-back number with the operator. Do not hang up unless told directly to do so and if disconnected, you should dial 9-1-1 again. A 9-1-1 fee of $0.75 per number shall apply."]
+      },
+      {
+        "sectionNo":"3.02",
+        "sectionName":"02 Acknowledgement and Warnings",
+        "p":[
+          "9-1-1 Dialing service will not function in the event of a power or broadband outage or if your broadband, high-speed Internet access service or Business Phone service is interrupted, suspended or terminated.  Following a power failure or disruption, you may need to reset, configure, your telephone adapter as hereinafter defined, prior to utilizing the Service, including 9-1-1 Dialing.  You must update and verify online at the my account web portal your location of use for each changed, newly added or newly ported number in order for the 9-1-1 Dialing to function correctly.  There may be a greater possibility of network congestion and/or reduced speed in the routing of a 9-1-1 call made utilizing the Service as compared to the traditional 9-1-1 Dialing over traditional public telephone networks.  Customer agrees to notify any potential user or agent of the Services, who may place calls using Customer’s Services, of the 9-1-1 Dialing limitations described herein."
+        ]
+      },
+      {
+        "sectionNo":"3.03",
+        "sectionName":"Disclaimer on Liability and Indemnification with respect to 9-1-1 Dialing",
+        "p":[
+          "CUSTOMER ACKNOWLEDGES AND AGREES THAT BESANZ WILL NOT BE LIABLE FOR ANY SERVICE OUTAGE AND/OR INABILITY TO DIAL 9-1-1 OR ANY OTHER EMERGENCY TELEPHONE NUMBER USING BESANZ SERVICES OR TO ACCESS AND EMERGENCY SERVICE OPERATOR DUE TO THE 9-1-1 DIALING CHARACTERISTICS AND LIMITATIONS SET FORTH IN THESE TERMS AND CONDITIONS, CUSTOMER AGREES TO DEFEND, INDEMNIFY AND HOLD HARMLESS BESANZ, ITS OFFICERS, DIRECTORS, EMPLOYEES, AFFILIATES AND AGENTS AND ANY OTHERS SERVICE PROVIDER WHO FURNISHES SERVICES TO CUSTOMER IN CONNECTION WITH THE SERVICES, FROM AND ALL CLAIMS, LOSSES, DAMAGES, FINES, PENALTIES, COSTS AND EXPENSES (INCLUDING, WITHOUT LIMITATION, REASONABLE ATTORNEY FEES) BY OR ON BEHALF OF, CUSTOMER OR ANY THIRD PARTY OR USER OF SERVICES RELATING TO THE FAILURE OR OUTAGE OF THE SERVICES, INCLUDING THOSE RELATED TO 9-1-1 DIALING.  If you are not comfortable with the limitations set forth with respect to 9-1-1 Dialing service, you should consider having an alternate means of accessing traditional 9-1-1 or E9-1-1 Dialing services or terminating the Services"
+        ]
+
+      }
+    ]
+  },{
+    "titleNo":"4.0",
+    "title":"Equipment",
+    "sections":[
+      {
+        "sectionNo":"4.0.1",
+        "sectionName":"Equipments",
+        "p":[
+          "To provide the Services, Besanz may provide Rental Equipment to Customer or Customer may purchase Equipment.  All Equipment or Rental Equipment Shipments are FOB “Besanz facility”.  Besanz’s liability of delivery shall cease and title (if applicable) and all risk of loss and damage shall pass to the Customer upon delivery to the carrier.  Customer will be provided a twelve (12) month manufacturer’s warranty from the date of purchase of Equipment or Services."
+        ]
+      },
+      {
+        "sectionNo":"4.02",
+        "sectionName":"Equipment Refunds",
+        "p":[
+          "Any Equipment not returned within thirty (30) days of purchase is non-refundable.  Equipment returned within thirty (30) days from the date of purchase must have less than fifteen (15) minutes of usage to be eligible for a refund. Any Equipment return is subject to a thirty-five dollars ($35.00) restocking fee for each device"
+        ]
+      },
+      {
+        "sectionNo":"4.03",
+        "sectionName":"Rental Equipment",
+        "p":[
+          "All Rental Equipment shall at all times remain the property of Besanz or its designee.  Customer may not sell, transfer, lease, encumber or assign all or part of the Rental Equipment, nor shall Customer relocate the Rental Equipment outside the location where the Rental Equipment or Equipment was initially installed (“Premises”).  Customer shall pay to Besanz the full manufacturer suggested retail price for the replacement of any lost, stolen, unreturned, damaged, sold, transferred, leased, encumbered or assigned Rental Equipment or part thereof, together with any incidental costs incurred by Besanz relating to the replacement of the Rental Equipment.  Customer hereby authorizes Besanz to charge Customer’s Visa, MasterCard or other credit card for any such charges.  Besanz may, at its option, install new or reconditioned Rental Equipment.  Upon expiration or termination of Besanz Services, the Customer is responsible at its own expense for the safe return of the Rental Equipment to Besanz in salable condition at the address indicated in the Return Authorization."
+        ]
+      }
+    ]
+  },
+  {
+    "titleNo":"5.0",
+    "title":"Access to Customer’s Premises",
+    "sections":[
+      {
+        "sectionNo":"",
+        "sectionName":"",
+        "p":[
+          "Customer authorizes Besanz and its employees, agents, contractors and representatives to enter Customer’s Premises to install, maintain, inspect, alter, repair and remove as the case may be, the Equipment and/or Rental Equipment.  All such services shall be conducted at a time agreed to with Customer."
+        ]
+      } 
+    ]
+  },
+  {
+    "titleNo":"6.0",
+    "title":"Customer Data",
+    "sections":[
+      {
+        "sectionNo":"",
+        "sectionName":"",
+        "p":[
+          "Customer hereby grants to Besanz a non-exclusive, non-transferable (except in connection with an assignment of this Agreement) license to copy, store, record, transmit, display, view, print, and use Customer Data, solely to the extent necessary to provide Services to Customer.  Except as expressly provided in this Section, Customer grants to Besanz no right, title, interest, or license in the Customer Data, and Customer hereby reserves for itself and its licensors all rights in and to all Customer Data"
+        ]
+      } 
+    ]
+  },
+  {
+    "titleNo":"7.0",
+    "title":"Billing, Charges and Payments",
+    "sections":[
+      {
+        "sectionNo":"7.1",
+        "sectionName":"Fixed Monthly Service Fees and Billing",
+        "p":[
+          "The cost for Services requiring a fixed monthly fee such as the Unlimited Plan shall be stated in the Customer Sales Order and shall be payable monthly, in advance, plus all applicable taxes, surcharges and fees (collectively “Fixed Service Fee”).  The Fixed Service Fee for the first month of Service shall be due and payable prior to the installation of the Service and if commencement of Service or activation of Service occurs on other than the first calendar day of the month then the Fixed Service Fee will be prorated by the number of calendar days remaining in the month.  Thereafter, the Fixed Service Fee is due and payable in advance on the first day of each month and shall be considered late if not received by Besanz by the tenth (10th) calendar day of each month.  Besanz may at its sole discretion elect to modify the billing dates"
+        ]
+      },
+      {
+        "sectionNo":"7.2",
+        "sectionName":"Variable Monthly Usage and Billing",
+        "p":[
+          "The cost for Services computed based on usage by Customer of the Standard Program at the rates stated in the Customer Sales Order (“Variable Service Fee”) shall be payable monthly on the first day of each month for the Standard Program used in the preceding month plus all applicable taxes, surcharges and fees and shall be added to the Fixed Service Fee. Calls to toll free numbers will be billed at our North America Long Distance rate."
+        ]
+      },
+      {
+        "sectionNo":"7.3",
+        "sectionName":"Charges",
+        "p":[
+          "Customer is responsible for paying all charges, plus all applicable taxes thereon, for the Services (which charges are subject to change from time to time at the sole discretion of Besanz without notice to Customer), including, but not limited to any calls: (i) made via Customer’s telephones or telecommunications systems; (ii) made using any number or authorization access code assigned to Customer; and (iii) which are charged to Customer’s account. Customer is responsible for the security of Customer’s authorization codes, and access to Customer’s telephones and telecommunications systems. Insufficient funds and any refused payments shall incur a twenty-five dollar ($25.00) administrative fee per occurrence. Credit card charge-backs will incur a fifty-dollar ($50.00) administrative fee. Besanz reserves the right to charge a twenty-five per cent (25%) administrative fee for all accounts remitted to collections. Due to billing software limitations any reference to Tax 1 or T1 is in fact an additional service charge and not a government tax."
+        ]
+      },
+
+      {
+        "sectionNo":"7.4",
+        "sectionName":"Credit and Security Deposit",
+        "p":[
+          "All Services provided to Customer shall at all times be subject to credit approval or review by Besanz.  Customer will provide such credit information or assurance as is requested by Besanz at any time.  Besanz, in its sole discretion and judgment, may discontinue credit at any time without notice or require a deposit.  Besanz may at its sole discretion require a sufficient security deposit to cover the first six (6) months of Service.  Should Besanz at any time consider a prepaid security deposit to be insufficient, a further security deposit may be required before it provides, continues, or reinstates the Services to Customer.  Besanz will determine, at its sole discretion, how Customer’s deposit or other security will be allocated to satisfy outstanding amounts owed by Customer to Besanz. All deposits or other prepayments made by a Customer in connection with the Services will earn no interest."
+        ]
+      },
+
+      {
+        "sectionNo":"7.5",
+        "sectionName":"Taxes",
+        "p":[
+          "Prices for the Services do not include custom duties, sales, use, value added, excise, federal, state, provincial, local, public utility, universal service or other similar taxes.  All such taxes shall be paid by Customer unless Customer provides Besanz with an appropriate exemption certificate.  If any amounts paid for the Services are refunded by Besanz, applicable taxes may not be refundable"
+        ]
+      },
+      {
+        "sectionNo":"7.6",
+        "sectionName":"6 Regulatory Recovery Fee",
+        "p":[
+          "A regulatory recovery fee will be charged monthly to offset costs incurred by Besanz in complying with inquiries and obligations imposed by federal, state and municipal regulatory bodies/government and the related legal and billing expenses.  This fee is not a tax or charge required or assessed by any government.  The regulatory recovery fee will apply to every phone number assigned, including toll free and virtual numbers."
+        ]
+      },
+      {
+        "sectionNo":"7.7",
+        "sectionName":"Payment",
+        "p":[
+          "Customer must pay for the Services either by credit card by providing Besanz with Customer’s credit card number upon subscribing for the Services or Pre-Authorized debit payment by providing Besanz with the appropriate banking information.  Customer authorizes Besanz to proceed to such charges against such credit card or bank account to pay all charges for the Services"
+        ]
+      },
+
+      {
+        "sectionNo":"7.8",
+        "sectionName":"Late/Non-Payment",
+        "p":[
+          "If any charges for the Services are due but unpaid for any reason including, but not limited to, non-payment, Besanz may suspend or terminate the Services and all accrued charges shall be immediately due as per Section 2.06 , plus a late fee of the greater of ten dollars ($10.00) or 1.5% per month.  A fee will also be charged to activate a suspended account.  No suspension or termination of the Services shall relieve the Customer from paying any amounts due hereunder."
+        ]
+      },
+      {
+        "sectionNo":"7.9",
+        "sectionName":"Rate changes",
+        "p":[
+          "Besanz may change the prices for Services and toll charges from time to time. Besanz may change prices, Service plans, taxes or fees without any advance notice.  In the event of a change in prices or toll charges, Besanz will notify such changed rates to the Customer thirty (30) days prior to the effective change in prices.  International call tolling rates are updated monthly on the first day of each month and no other notice shall be provided for changes to international toll calling rates.  Calls certain countries may have higher rates due to international boundary and sovereignty disputes, such as Kashmir, India, West Bank, Israel, & Gaza.  Rates will be determined based on the area code being dialed and not the country code.  The Fixed Service Fee for the Unlimited Plan and the Variable Service Fee for the Standard Program effective upon any renewal of the Agreement shall be Besanz’s then current Service fees for the applicable Services."
+        ]
+      },
+      {
+        "sectionNo":"7.10",
+        "sectionName":"Rate Guarantee",
+        "p":[
+          "Besanz will match any advertised long distance rate for identical or similar services.  Customer must contact Besanz to notify Besanz of the competitor’s rate in order for Besanz to confirm such rate, prior to adjusting Customer’s rate.  The rate guarantee does not apply to pre-paid calling cards, bundled minute plans and select regions of the world including occupied territories."
+        ]
+      },
+      {
+        "sectionNo":"7.11",
+        "sectionName":"Availability",
+        "p":[
+          "Customer acknowledges that the Services will not be available 100% of the time. Credit allowances for the interruption of Services shall not be provided."
+        ]
+      },
+      {
+        "sectionNo":"7.12",
+        "sectionName":"Discount",
+        "p":[
+          "From time to time, in its sole discretion, Besanz may offer promotions or discounts of activation or other fees.  Any promotion or discount codes must be provided to Besanz upon purchase of the Services.  Customer shall not be entitled to a subsequent credit for such promotions or discounts, if not requested at the time of account creation or change of service.  Promotions and/or discounts may not be used cumulatively or be used for Services retroactively"
+        ]
+      },
+      {
+        "sectionNo":"7.13",
+        "sectionName":"Billing Disputes",
+        "p":[
+          "Customer must dispute any charges for the Services in writing to Besanz within ten (10) days of the date of the charges for Services.  If Customer fails to provide a written statement disputing the charges within such time, Customer waives any objection and further recourse with respect to such charges.  Written statements disputing charges must be sent to the billing department at the following electronic address:  billing@Besanz.com."
+        ]
+      },
+      {
+        "sectionNo":"7.14",
+        "sectionName":"Toll Charges",
+        "p":[
+          "Every call to or from Equipment using the Services that originates or terminates in the Public Switched Telephone Network (“PSTN“), including other VoIP networks, is subject to the then applicable toll charges that are associated with the Service plan, which Besanz will include in invoices and Customer will pay. The duration of each call is to be calculated in one-minute increments and rounded up to the nearest one-minute increment for any fraction of minutes used. If the computed charge for a call includes a fraction of a cent, the fraction is rounded up to the nearest whole cent. If the computed charges for taxes and surcharges include a fraction of a cent, the fraction is rounded up to the nearest whole cent. When Customer dials an international PSTN phone number, charges may apply regardless of whether the party on the other line answers the call. Calls made by a Customer to an international mobile, rather than landline, or premium rate telephone number, may result in higher toll charges."
+        ]
+      }
+    ]
+  },
+  {
+    "titleNo":"8.0",
+    "title":"Telephone Number",
+    "sections":[
+      {
+        "sectionNo":"",
+        "sectionName":"",
+        "p":[
+          "Any telephone number provided by Besanz (“Number“) to the Customer shall be leased and not sold. Customer will not use the Number with any other device other than the Equipment without the express written permission of Besanz. Besanz reserves the right to change, cancel or move the Number at its sole discretion."
+        ]
+      }
+    ]
+  },
+  {
+    "titleNo":"9.0",
+    "title":"Monitoring Service Use",
+    "sections":[
+      {
+        "sectionNo":"",
+        "sectionName":"",
+        "p":[
+          "Customer agrees that Besanz is entitled to monitor Customer’s use of Service, at Besanz’s expense."
+        ]
+      }
+    ]
+  },
+  {
+    "titleNo":"10.0",
+    "title":"Prohibited Uses",
+    "sections":[
+      {
+        "sectionNo":"",
+        "sectionName":"",
+        "p":[
+          "Any use of the Services or any other action that causes a disruption in the network integrity, or threatens or compromises the security of Besanz, its vendors, or the Services whether directly or indirectly, is strictly prohibited and permits Besanz to terminate the Services and the Agreement without prior notice at the sole discretion of Besanz. Customer acknowledges that neither Besanz nor its vendors are responsible for the content of the transmissions that may pass through the Internet and/or the Services. Customer will NOT use the Services in ways that violate applicable laws (including but not limited to laws on obtaining third party consent for call recording), infringe the rights of others, or interfere with the users, agents, services, or equipment of the network. Customer agrees, represents, and warrants that it is purchasing the Services and/or the Equipment for its own internal use only, and shall not resell, transfer or charge for the Services or the Equipment without the advance express written permission of Besanz. Besanz’s Service plans for Customers that offer unlimited minutes for calls are for reasonable business use of Customer only. Such use shall not include certain activities including, but not limited to, any autodialing, continuous or extensive call forwarding, call flooding, continuous connectivity, telemarketing (including without limitation charitable or political solicitation or polling), call center operations, calling any person (through the use of distribution lists or otherwise) who has not given specific permission to be included in such a process or “Call Center Plan” or any other activity that would be inconsistent with reasonable business usage. Customer shall not transmit through the Services any unlawful, harassing, defamatory, abusive, threatening, harmful, vulgar, obscene, indecent, or otherwise objectionable communications or material of any kind or nature. Customers further agree not to transmit any material that encourages conduct that could constitute a criminal offense, violate the intellectual property rights of others, give rise to civil liability or otherwise violate any applicable local, state, national or international statute, regulation, or other law (collectively “Prohibited Uses”). Any use found to be inconsistent with this restriction will result in termination of the Services. Besanz reserves the right to immediately terminate or modify the Services of any Customer performing Prohibited Uses."
+        ]
+      }
+    ]
+  },
+  {
+    "titleNo":"11.0",
+    "title":"Terms",
+    "sections":[
+      {
+        "sectionNo":"11.01",
+        "sectionName":"Initial Terms",
+        "p":[
+          "Besanz offers one (1) year initial term agreements with Customers (“Service Period”).  The initial term begins on the date that Customer enters into the Agreement with Besanz and continues into force and effect for the duration of the Service Period (“Initial Term”).  Besanz may not increase the rates for the Services during the Service Period."
+        ]
+      },
+      {
+        "sectionNo":"11.02",
+        "sectionName":"Renewal",
+        "p":[
+          "Except as set forth in section 10.3, at the end of the Initial Term, the Agreement is automatically renewed for an additional one (1) year period (“Renewal Term”), and shall be renewed at the end of each renewal Term for an additional one (1) year Renewal Term, unless Customer provides Besanz, at least thirty (30) days written notice prior to the end of the Initial Term or applicable Renewal Term, notification of intention to cancel Service."
+        ]
+      },
+      {
+        "sectionNo":"11.03",
+        "sectionName":"Month-To-Month Renewal",
+        "p":[
+          "Instead of renewal as set forth in Section 10.2 or cancellation, a Customer shall have the option, upon expiration of the Initial Term or any Renewal Term, to renew the Agreement on a month-to-month basis at the then current rates offered for the Services.  Besanz may increase rates at any time by providing Customer with a thirty (30) day written notice.  Customer will be converted to a month-to-month basis if Customer provides to Besanz, at least thirty (30) days prior to the end of the Initial Term or applicable Renewal Term, notification of intention to convert to month-to-month service."
+        ]
+      },
+      {
+        "sectionNo":"11.04",
+        "sectionName":"No Contract Month-to-Month",
+        "p":[
+          "Besanz also offers agreements with not specified term or a month-to-month plan. Early cancellation fees (“ECF”) shall not apply; however, Besanz should be notified by mail or email thirty (30) days prior to the cancellation date. Besanz may increase rates at any time by providing Customer with a thirty (30) day written notice"
+        ]
+      }
+    ]
+  },
+  {
+    "titleNo":"12.0",
+    "title":"Termination",
+    "sections":[
+      {
+        "sectionNo":"12.01",
+        "sectionName":"Termination for Convenience",
+        "p":[
+          "Either party may terminate the Agreement upon thirty (30) days written notice of termination.  Disconnection fees may apply for a termination by Customer.  If Customer transfers or ports its telephone number(s) to a service provider other than Besanz, Customer must contact Besanz to cancel the Services provided to Customer by Besanz and such transfer is subject to an administrative fee of fifty dollars ($50.00) per Number."
+        ]
+      },
+      {
+        "sectionNo":"12.02",
+        "sectionName":"Immediate Termination or Suspension",
+        "p":[
+          "Besanz shall be entitled, at its sole discretion, to suspend, terminate or change the Services without advanced notice for any reason, including without limitation, misuse of the Services in any way, exercising Prohibited Uses, Customer’s breach of the Agreement, Customer’s failure to pay any sum due hereunder, failure to provide interim payments when requested by Besanz, failure to maintain a reasonable security deposit or alternate security when requested by Besanz,  failure to meet Besanz’s credit requirements, failure."
+        ]
+      },
+      {
+        "sectionNo":"12.03",
+        "sectionName":"",
+        "p":[
+          "to comply with the terms of a deferred payment or credit agreements with Besanz, allows third parties to use the Service without Besanz’s consent, allows third parties to use Besanz’s Services for commercial or business use, allows third parties to use Besanz’s Services for resale, Customer’s bankruptcy or insolvency, suspected fraud or other activity by Customer that adversely affects the Services, Besanz, Besanz’s network or other Customer’s use of the Services. Besanz shall be entitled to determine, at its sole discretion, what constitutes misuse of the Services and Customer agrees that Besanz’s determination is final and binding on Customer. Besanz may require, and if required, Customer shall pay, an activation fee of twenty-five dollars ($25.00) as a condition to changing or resuming a terminated or suspended account."
+        ]
+      },
+      {
+        "sectionNo":"12.04",
+        "sectionName":"Effect of Termination by Customer on Fees",
+        "p":[
+          "to comply with the terms of a deferred payment or credit agreements with Besanz, allows third parties to use the Service without Besanz’s consent, allows third parties to use Besanz’s Services for commercial or business use, allows third parties to use Besanz’s Services for resale, Customer’s bankruptcy or insolvency, suspected fraud or other activity by Customer that adversely affects the Services, Besanz, Besanz’s network or other Customer’s use of the Services. Besanz shall be entitled to determine, at its sole discretion, what constitutes misuse of the Services and Customer agrees that Besanz’s determination is final and binding on Customer. Besanz may require, and if required, Customer shall pay, an activation fee of twenty-five dollars ($25.00) as a condition to changing or resuming a terminated or suspended account."
+        ]
+      },
+      {
+        "sectionNo":"12.05",
+        "sectionName":"Effect of Immediate Termination or Suspension by Besanz on Fees",
+        "p":[
+          "Suspension or termination of the Agreement for any reason whatsoever does not alleviate the Customer’s responsibility to pay for all unpaid, accrued charges hereunder.  If the Agreement is terminated by Besanz for one of the reasons contained at Section 12.02, Customer will be charged for all usage of the Services including the Fixed Service Fee and Variable Service Fee until the end of the Service Period."
+        ]
+      },
+      {
+        "sectionNo":"12.06",
+        "sectionName":"Effect of Termination for Convenience by Besanz on Fees",
+        "p":[
+          "Upon termination of the Agreement by Besanz for convenience, Customer shall be responsible to pay for the full monthly Fixed Service Fee for the month in which termination occurs.  Expiration or termination of the Agreement for any reason whatsoever does not alleviate the Customer’s responsibility to pay for all unpaid, accrued charges hereunder"
+        ]
+      },
+      {
+        "sectionNo":"12.07",
+        "sectionName":"Credit Balance",
+        "p":[
+          "Where the Services are terminated for convenience, either by Customer or by Besanz as provided herein, and there is an undisputed credit balance on Customer’s account, Customer may require that it be refunded to Customer and Besanz reserves the right to charge a reasonable processing fee in connection with issuing refunds"
+        ]
+      },
+      {
+        "sectionNo":"12.08",
+        "sectionName":"Port out",
+        "p":[
+          "According to the CRTC, the Customer is responsible for settling his account with his previous provider before a cancellation or to port his service to another provider.",
+          "In this context, if the customer want to port or cancel his services without paying his bills and/or his cancellation fees link to his contract. Besanz is allowed to disconnect the services after a call with the Customer. The Customer will be reactivated when the balance is paid."
+        ]
+      }
+    ]
+  },
+  {
+    "titleNo":"13.0",
+    "title":"Electronic Recording",
+    "sections":[
+      {
+        "sectionNo":"",
+        "sectionName":"",
+        "p":[
+          "Customer acknowledges and understands that there are federal, state and provincial statutes governing the electronic recording of telephone conversations and that Besanz will not be liable for any illegal use of the Service. Because Customer circumstances vary widely, Customers should carefully review their own circumstances when deciding whether to use the recording features of the Service and it is the Customer’s responsibility to determine if the electronic recordings are legal under applicable federal, provincial and state laws. Besanz is not responsible for any misinterpretation, lack of understanding or lack of knowledge regarding the use of electronic recordings or the use of its products by the Customer, whether legal or illegal, and Customer will indemnify and hold Besanz harmless for any claims, damages, fines, or penalties arising out of Customer’s failure to adhere to applicable electronic recording laws. Besanz’s electronic recording guidelines by requesting them as they provide additional information on electronic recording and is incorporated by reference in the Agreement as if fully set forth."
+        ]
+      }
+    ]
+  },
+  {
+    "titleNo":"14.0",
+    "title":"Responsibility for Registration and Content of Customer Communication",
+    "sections":[
+      {
+        "sectionNo":"",
+        "sectionName":"",
+        "p":[
+          "Customer is solely responsible for maintaining the confidentiality of Customer’s login, and will not transfer login, email address or password, or lend or otherwise transfer use of or access to the Besanz Services, to any third party. Customer is solely responsible for any and all activities that occur under Customer’s account. Customer will comply with applicable foreign, federal, state, provincial and local law in its use of the Services, including but not limited to laws regarding acceptable content, and the transmission of equipment and information under applicable export laws. Use of the Services is void where prohibited. Customer will immediately notify Besanz of any unauthorized use of Customer’s account or any other breach of security related to Customer’s account or the Besanz Services, and to ensure that Customer completes a “log off”/exit from Customer’s account (if applicable) at the end of each session. Besanz is not liable for any loss or damage arising from Customer failure to comply with any of the foregoing obligations. In consideration for using the Besanz Services, Customer will: (1) provide certain current, complete, and accurate information about Customer when prompted to do so by the Besanz Services, and (2) maintain and update this information as required to keep it current, complete and accurate. Customer warrants that any such information will be accurate. Customer agrees that Customer is solely responsible for the content of all visual, written or audible communications (“Content“) sent by Customer or displayed or uploaded by Customer in using the Services."
+        ]
+      }
+    ]
+  },
+  {
+    "titleNo":"15.0",
+    "title":"Privacy",
+    "sections":[
+      {
+        "sectionNo":"",
+        "sectionName":"",
+        "p":[
+          "Besanz utilizes the public Internet and third party networks to provide voice communication services. Accordingly, Besanz cannot guarantee the confidentiality or security of voice communications of Customers. Besanz is committed to respecting Customer’s privacy, and the privacy of callers using the Services. Once Customer chooses to provide or gather personally identifiable information using the Services, it will only be used in connection with Customer’s relationship with Besanz or otherwise to deliver Services. Besanz will not sell, rent, or lease Customers’ personally identifiable information to others, except to a successor in interest or assignee of Besanz purchasing all or substantially all of the assets of Besanz, or acquiring a majority of the voting equity of Besanz. Unless required by law or judicial or administrative process, or if Customer’s prior permission is obtained, Besanz will only share the personal data Customer provides or gathers using the Services with other Besanz affiliates and/or business partners that are acting on Besanz’s behalf to provide the Services. Such Besanz affiliates and/or national or international business partners are governed by Besanz’s privacy policy (“Privacy Policy“) with respect to the use of this data. The Privacy Policy appears at insert_privacy_policy_link   and is incorporated by reference in the Agreement as if fully set forth. Besanz is required to file numerous reports with different administrative bodies. As such, Besanz may provide aggregate statistics about customers, sales and traffic patterns. None of these reports or statistics will include personally identifiable information. However, Besanz reserves the right to use personally identifiable information to investigate and help prevent potentially unlawful activity that threatens either Besanz or any company affiliated with Besanz. Moreover, upon the appropriate request of a government agency, law enforcement agency, court or as otherwise required by law or judicial or administrative process, Besanz may disclose personally identifiable information."
+        ]
+      }
+    ]
+  },
+  {
+    "titleNo":"16.0",
+    "title":"Technical Support",
+    "sections":[
+      {
+        "sectionNo":"",
+        "sectionName":"",
+        "p":[
+          "Besanz provides technical support to Customers via telephone and e-mail for the Services and the Equipment provided hereunder. Support for other applications and uses is not provided or implied and except as stated in this Section, Besanz has no obligation to provide additional technical support."
+        ]
+      }
+    ]
+  },
+  {
+    "titleNo":"17.0",
+    "title":"Breach",
+    "sections":[
+      {
+        "sectionNo":"",
+        "sectionName":"",
+        "p":[
+          "In the event of Customer’s breach of the terms of the Agreement, including without limitation, failure to pay any sum due hereunder, Customer shall reimburse Besanz for all attorneys’ fees and court, collection and other costs incurred by Besanz in the enforcement of Besanz’s rights hereunder and Besanz may keep any deposits or other payments made by Customer."
+        ]
+      }
+    ]
+  },
+  {
+    "titleNo":"18.0",
+    "title":"Indemnification",
+    "sections":[
+      {
+        "sectionNo":"",
+        "sectionName":"",
+        "p":[
+          "Customer agrees to defend, indemnify and hold Besanz, and its affiliates, directors, officers, employees, attorneys, agents, and vendors harmless from any claims or damages relating to this Agreement or use of Services by Customer."
+        ]
+      }
+    ]
+  },
+  {
+    "titleNo":"19.0",
+    "title":"Fraudulent Calls",
+    "sections":[
+      {
+        "sectionNo":"",
+        "sectionName":"",
+        "p":[
+          "In the event Customer connects the Services to the PSTN, Customer is solely responsible for selection, implementation and maintenance of security features for protection against unauthorized calling, and Besanz shall have no liability therefore. Customer is solely responsible for payment of long distance, toll and other telecommunication charges incurred through use of the Services being provided hereunder.  Customer shall indemnify and hold Besanz harmless from all costs, expenses, claims, or actions arising from fraudulent calls of any nature carried by means of the Services.  Customer shall not be excused from paying Besanz for Services provided to Customer or any portion thereof on the basis that fraudulent calls comprised a corresponding portion of the Services.  In the event that Besanz discovers fraudulent calls being made, nothing contained herein shall prohibit Besanz from taking immediate action, without notice to Customer that is reasonably necessary to prevent such calls from taking place.  Notwithstanding, it is understood that Besanz is under no obligation to investigate the authenticity of calls charged to Customer account and shall not be liable for any fraudulent calls processed by Besanz and billed to Customer’s account."
+        ]
+      }
+    ]
+  },
+  {
+    "titleNo":"20.0",
+    "title":"Representations",
+    "sections":[
+      {
+        "sectionNo":"",
+        "sectionName":"",
+        "p":[
+          "Besanz is a company that provides marketing services and or is a reseller and does not provide actual telecom services.  Besanz acts as a third party carrier and Customer accounts are the property of the respective carrier.  The employees and agents of other carriers are not and shall not be deemed agents or employees of Besanz."
+        ]
+      }
+    ]
+  },
+  {
+    "titleNo":"21.0",
+    "title":"Warranties",
+    "sections":[
+      {
+        "sectionNo":"",
+        "sectionName":"",
+        "p":[
+          "Besanz warrants that the Services will substantially conform to the user manuals and other documentation relating to the Services, which are made available to Customer by Besanz, in the form of recorded documentation on optical or magnetic media, accessible via the Internet or in the form of printed media, during the term of this Agreement.  Besanz will use commercially reasonable efforts to pass through to Customer manufacturers’ warranties on Equipment."
+        ]
+      }
+    ]
+  },
+  {
+    "titleNo":"22.0",
+    "title":"Disclaimer of Warranty.",
+    "sections":[
+      {
+        "sectionNo":"",
+        "sectionName":"",
+        "p":[
+          "EXCEPT AS EXPRESSLY SET FORTH IN SECTION 27 THE AGREEMENT, THE PRODUCTS AND OTHER SERVICES PROVIDED HEREIN ARE PROVIDED “AS IS” AND BESANZ MAKES NO WARRANTIES AND DISCLAIMS ALL WARRANTIES, WHETHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NONINFRINGEMENT. NEITHER BESANZ NOR ITS VENDORS WILL BE LIABLE FOR UNAUTHORIZED ACCESS TO BESANZ’S OR CUSTOMER’S TRANSMISSION FACILITIES OR PREMISE EQUIPMENT OR FOR UNAUTHORIZED ACCESS TO OR ALTERATION, THEFT OR DESTRUCTION OF CUSTOMER’S DATA FILES, PROGRAMS, PROCEDURES OR INFORMATION THROUGH ACCIDENT, FRAUDULENT MEANS OR DEVICES, OR ANY OTHER METHOD, REGARDLESS OF WHETHER SUCH DAMAGE OCCURS AS A RESULT OF BESANZ’S OR ITS VENDORS’ NEGLIGENCE. NEITHER BESANZ NOR ITS VENDORS WILL BE LIABLE FOR MALFUNCTIONS OR FAILURES RESULTING FROM MISUSE, ABUSE, NEGLECT, ALTERATION, MODIFICATION, IMPROPER INSTALLATION, OR REPAIRS BY ANYONE OTHER THAN BESANZ. NEITHER BESANZ NOR ITS VENDORS WILL BE LIABLE FOR DELAYS OR INTERRUPTIONS IN ACCESS TO OR USE OF THE SERVICES RESULTING FROM CUSTOMER’S EQUIPMENT, USE OF THE INTERNET, OR TELECOMMUNICATIONS SYSTEMS NOT UNDER BESANZ’S CONTROL, AND BESANZ SHALL HAVE NO LIABILITY FOR ANY SUCH DELAYS OR INTERRUPTIONS."
+        ]
+      }
+    ]
+  },
+  {
+    "titleNo":"23.0",
+    "title":"Exclusive Remedy",
+    "sections":[
+      {
+        "sectionNo":"",
+        "sectionName":"",
+        "p":[
+          "CUSTOMER’S SOLE AND EXCLUSIVE REMEDY, WHICH BESANZ SHALL BE ENTITLED TO ELECT IS REPAIR, REPLACEMENT, CREDIT OR, REFUND. BESANZ MAY ELECT TO PROVIDE A REFUND IN LIEU OF CREDIT, REPLACEMENT OR REPAIR."
+        ]
+      }
+    ]
+  },
+  {
+    "titleNo":"24.0",
+    "title":"Besanz’s Liability",
+    "sections":[
+      {
+        "sectionNo":"",
+        "sectionName":"",
+        "p":[
+          "Besanz shall not be liable for:",
+          "(a) Any interruption, suspension or unavailability of Services, including, but not limited to, any interruption or unavailability of emergency 9-1-1 service;",
+          "(b) Any act or omission or charges of any third party including, but not limited to, any other local telephone company, any connecting carrier or underlying carrier or other provider of connections, facilities or services;",
+          "(c) Customer’s conduct, acts, omissions and use of Services;",
+          "(d) Any event beyond the reasonable control of Besanz including Force Majeure, as hereinafter defined;",
+          "(e) Besanz’s failure, for any reason, to activate Services on the activation date that Customer requested or date provided to you by Besanz;",
+          "(f) Besanz’s suspension or termination of Customer’s Service for any reason whatsoever;",
+          "(g) Any defacement of, damage to, the Service location resulting from the attachment of any instruments, apparatus or associated wiring and/or the Rental Equipment, Equipment furnished by Besanz, or removal thereof, when such defacement or damage is not wholly caused by Besanz’s negligence; and",
+          "(h) Any damages Customer may incur as a result of the operation or failure of your equipment, facilities, wiring or other devices Customer uses with the Services, including without limitation, if any of your equipment, facilities, wiring or other devices that you use with the Services are now or later become incompatible with the Rental Equipment, Equipment and/or the Services.",
+          "(I) makes no representation regarding the speed of the Internet Service. Actual speeds may vary and are not guaranteed. Many factors affect speed including, without limitation, the number of workstations using a single connection."
+        ]
+      }
+    ]
+  },
+  {
+    "titleNo":"25.0",
+    "title":"Limitation Liability",
+    "sections":[
+      {
+        "sectionName":"",
+        "sectionNo":"",
+        "p":[
+          "IN NO EVENT SHALL BESANZ OR ITS VENDORS BE LIABLE FOR ANY SPECIAL, INCIDENTAL, INDIRECT, PUNITIVE OR CONSEQUENTIAL DAMAGES OR FOR ANY DAMAGES, INCLUDING BUT NOT LIMITED TO LOSS OF DATA, LOSS OF REVENUE OR PROFITS, OR ARISING OUT OF OR IN CONNECTION WITH THE USE OR INABILITY TO USE SERVICES OR PRODUCTS PROVIDED HEREUNDER WHETHER DUE TO A BREACH OF CONTRACT, BREACH OF WARRANTY, THE NEGLIGENCE OF BESANZ OR ITS VENDORS OR OTHERWISE.  IN NO EVENT SHALL BESANZ’S TOTAL LIABILITY HEREUNDER EXCEED THE AMOUNTS PAID BY CUSTOMER TO BESANZ (OR CONTRACTUAL, INC. BEFORE IT) IN THE PRIOR TWELVE (12) MONTHS FROM DATE OF CLAIM."
+        ]
+      },
+      {
+        "sectionName":"Limitations of BESANZ VoIP 9-1-1 Emergency Call Service ",
+        "sectionNo":"25.1",
+        "p":[
+          "The VoIP 9-1-1 emergency call service is provisioned in a manner that cannot  guarantee that the caller’s address is in the exchange native to its telephone number.  According to telecom decision CRTC 2005-21, this type of telephone service is  classified as a Nomadic or Fixed Non-Native VoIP service due to the fact that the  endpoint (phone) location may change. BESANZ provides CUSTOMER and CUSTOMER End Users  with access to VoIP 9-1-1 emergency call services in accordance with this regulation,  so long as it remains in effect. BESANZ will continue to follow industry regulations,  guidance and best practices for the proper handling and treatment of 9-1-1 emergency  services for Nomadic and Fixed Non-Native VoIP Services as they evolve and are  adopted by the industry.",
+          "The Voip 9-1-1 emergency call service has certain limitations relative to the enhanced  9-1-1 service that is available on most traditional telephone services. These limitations  apply to BESANZ's VoIP 9-1-1 emergency call service.",
+          "9-1-1 emergency calls made using BESANZ's VoIP 9-1-1 emergency call service are routed  to third-party emergency services operators. When CUSTOMER and CUSTOMER End Users  make an BESANZ VoIP 9-1-1 emergency call, CUSTOMER and CUSTOMER End Users must verbally  provide the operator with the CUSTOMER's / CUSTOMER End User's' name, address, and phone  number to ensure that the emergency services operator can route the call to the  appropriate local 9-1-1 response centre serving the geographical area where the caller  is located.",
+          "The CUSTOMER's location must be provided to the operator as the VOIP service phone endpoint (phone) location may change.",
+          "CUSTOMER agrees that it is aware that 9-1-1 emergency calls that are made using BESANZ's VoIP services may take longer to be connected to the correct 9-1-1 Public Safety  Answering Point (PSAP) than calls made using a traditional wire line telephone service.  As well, the operation of BESANZ's VoIP services are subject to the availability of CUSTOMER and CUSTOMER End User networks, which may be affected by power outages, network  outages, network capacity limitations, or other interruptions which may impact  CUSTOMER's and CUSTOMER End User's ability to place 9-1-1 emergency calls. If CUSTOMER or CUSTOMER End Users make a remote VoIP-based 9-1-1 emergency call (i.e. a call made  from outside the local area network), from outside Canada, or from a location within  Canada that is not served by 9-1-1, the operator will not be able to complete this 9-1-1 emergency call",
+          "For these reasons, it is advisable to use a traditional wire line telephone or cell phone  for 9-1-1 emergency calls",
+          "CUSTOMER is obligation to inform CUSTOMER's End Users and potential users about the nature  and limitations of the BESANZ VoIP 9-1-1 emergency call service, as described above",
+          "BESANZ is not responsible or liable for any damages, costs, claims, losses or expenses  (including, without limitation, any indirect, special, consequential, incidental, economic  or punitive damages) that arise from, or are due to, any omissions, interruptions,  delays, errors or defects in transmission of any 9-1-1 emergency call that is made  using the BESANZ VoIP 9-1-1 emergency call service.",
+          "CUSTOMER is responsible for promptly maintaining CUSTOMER's and CUSTOMER End User's 9-1- 1 emergency call address of record information, including name, address, and phone  number, up to date in the BESANZ portal whenever the information changes, to address  demands from emergency services authorities whenever required by such authorities.  BESANZ is not responsible for maintaining CUSTOMER's and CUSTOMER End User's 9-1-1  emergency call address of record information up to date.",
+          "CUSTOMER and CUSTOMER End Users agree and acknowledge that the BESANZ VoIP 9-1-1  Emergency Call Service is not available in all areas where VoIP Service is available.  CUSTOMER acknowledges and accepts the limitations around the BESANZ VoIP 9-1-1  emergency call service."
+        ]
+      }
+    ]
+  },
+  {
+    "titleNo":"26.0",
+    "title":"Export Compliance",
+    "sections":[
+      {
+        "sectionName":"",
+        "sectionNo":"",
+        "p":[
+          "Customer agrees to comply with U.S. export laws, and applicable export laws that apply in Customer’s location(s), concerning the transmission of technical data and other regulated materials via the Services."
+        ]
+      }
+    ]
+  },
+  {
+    "titleNo":"27.0",
+    "title":"Phone Numbers",
+    "sections":[
+      {
+        "sectionName":"",
+        "sectionNo":"",
+        "p":[
+          "Upon expiration, cancellation or termination of the Services, Customer shall relinquish and discontinue use of any Numbers, voice mail access numbers and logins assigned to Customer by Besanz or its vendors."
+        ]
+      }
+    ]
+  },
+  {
+    "titleNo":"28.0",
+    "title":"Notices",
+    "sections":[
+      {
+        "sectionName":"",
+        "sectionNo":"",
+        "p":[
+          "Besanz communicates with Customers primarily via email. Notices to Customer shall be sent to the email address specified by Customer at the time Customer ordered the Services or as subsequently specified by Customer (“Email Address“). Customer is responsible for notifying Besanz of any Email Address changes. Customer agrees that sending a message to the Email Address is the agreed upon means of providing notification. Email is used to communicate important information about the Services, billing, changes to the Services and other information. The information is time-sensitive in nature. It is required that Customer read any email sent to the Email Address in a timely manner in order to avoid any potential interruption in the Services provided hereunder. All notices and communications required or permitted to be sent to Besanz under this Agreement shall be in writing and sent to the following address or email address: Director of Customer Service, Besanz, privacy@besanz.com"
+        ]
+      }
+    ]
+  },
+  {
+    "titleNo":"29.0",
+    "title":"Force Majeure",
+    "sections":[
+      {
+        "sectionName":"",
+        "sectionNo":"",
+        "p":[
+          "Besanz shall not be liable for any delay in performance directly or indirectly caused by or resulting from acts of God, fire, flood, earthquake, tsunami, accident, riot, war, terrorism, government intervention, embargoes, strikes, labor difficulties, equipment failure, late delivery by suppliers or other difficulties of Besanz as may occur in spite of Besanz’s best efforts."
+        ]
+      }
+    ]
+  },
+  {
+    "titleNo":"30.0",
+    "title":"Governing Law",
+    "sections":[
+      {
+        "sectionName":"",
+        "sectionNo":"",
+        "p":[
+          "The Agreement and the relationship between Customer and Besanz shall be governed by the laws of the province of Ontario without regard to its conflict of law provisions. The United Nations Convention on Contracts for the International Sale of Goods shall not apply to the Agreement."
+        ]
+      }
+    ]
+  },
+  {
+    "titleNo":"31.0",
+    "title":"Dispute Settlement",
+    "sections":[
+      {
+        "sectionName":"",
+        "sectionNo":"",
+        "p":[
+          "Before instituting a claim, Customer will provide Besanz with an opportunity to resolve the claim by sending a written description of the claim to Besanz at the address or e-mail set forth at Section 28.  If Besanz is not able to resolve the claim within thirty (30) days of receipt of the notice by the Customer, then the Customer or Besanz may initiate action as set forth at Section"
+        ]
+      }
+    ]
+  },
+  {
+    "titleNo":"32.0",
+    "title":"Jurisdiction",
+    "sections":[
+      {
+        "sectionName":"",
+        "sectionNo":"",
+        "p":[
+          "Should a dispute arise among the parties pursuant to this Agreement, the parties covenant and agree to refer said dispute to the exclusive jurisdiction of the competent courts in Ontario."
+        ]
+      }
+    ]
+  },
+  {
+    "titleNo":"33.0",
+    "title":"General",
+    "sections":[
+      {
+        "sectionName":"33.1",
+        "sectionNo":"Currency",
+        "p":[
+          "Any reference to dollar amounts in this Agreement shall refer to the currency in the jurisdiction in which the Services are provided."
+        ]
+      },
+      {
+        "sectionName":"33.2",
+        "sectionNo":"Entire Agreement",
+        "p":[
+          "The terms and conditions of the Agreement, along with the Customer Sales Order or otherwise agreed to as part of the Agreement, constitute the entire agreement with regard to this sale and expressly supersede and replace any prior or contemporaneous agreements, written or oral, relating to the Services. The terms and conditions of the Agreement are in lieu of and replace any and all terms and conditions set forth in any documents issued by Customer, including, without limitation, purchase orders and specifications. ANY ADDITIONAL, DIFFERENT, OR CONFLICTING TERMS AND CONDITIONS ON ANY SUCH DOCUMENT ISSUED BY CUSTOMER AT ANY TIME ARE HEREBY OBJECTED TO BY BESANZ, AND ANY SUCH DOCUMENTS SHALL BE WHOLLY INAPPLICABLE TO ANY SALE MADE OR SERVICE RENDERED HEREUNDER AND SHALL NOT BE BINDING IN ANY WAY ON BESANZ. Except as set forth in Section 1.2, no waiver or amendment to this contract or these terms and conditions shall be binding on Besanz unless made in writing expressly stating that it is such a waiver or amendment and signed by a duly authorized representative of Besanz"
+        ]
+      },
+      {
+        "sectionName":"33.3",
+        "sectionNo":"No Waiver",
+        "p":[
+          "The failure by Besanz to exercise or enforce any right or provision of the Agreement shall not constitute a waiver of such right or provision"
+        ]
+      },
+      {
+        "sectionName":"33.4",
+        "sectionNo":"Severability",
+        "p":[
+          "The unenforceability of any provision or provisions of the Agreement shall not render unenforceable or impair its remainder.  If any provision of the Agreement is deemed invalid or unenforceable in whole or in part, the Agreement shall be deemed amended to delete or modify, as necessary, the invalid or unenforceable provision to render it valid, enforceable, and, insofar as possible, consistent with the original intent of the parties."
+        ]
+      },
+      {
+        "sectionName":"33.5",
+        "sectionNo":"Public Order",
+        "p":[
+          "If any provision of this Agreement is deemed contrary to provisions of public order, the provisions of public order shall prevail"
+        ]
+      },
+      {
+        "sectionName":"33.6",
+        "sectionNo":"Assignment; Binding Effect",
+        "p":[
+          "Customer shall not assign this Agreement or delegate Customer’s duties hereunder without Besanz’s prior written consent.  Subject to the foregoing, this agreement shall be binding upon the heirs, representatives, successors, and permitted assigns of Besanz and Customer."
+        ]
+      },
+      {
+        "sectionName":"33.7",
+        "sectionNo":"Headings",
+        "p":[
+          "The headings in the Agreement are solely for the convenience of reference and shall not be given any effect in the construction or interpretation of this Agreement."
+        ]
+      },
+      {
+        "sectionName":"33.8",
+        "sectionNo":"English Language",
+        "p":[
+          "The Parties agree that these Terms and Conditions be drawn up in the English language that they both understand."
+        ]
+      },
+      {
+        "sectionName":"33.9",
+        "sectionNo":"Anti-Bribery",
+        "p":[
+          "Each Party represents that in the execution of this Agreement and in the performance of its obligations under this Agreement it has complied and will comply with all applicable anti-bribery Laws and regulations, including, without limitation, the U.S. Foreign Corrupt Practices Act, the U.K. Bribery Act and similar applicable Laws."
+        ]
+      },
+      {
+        "sectionName":"33.10",
+        "sectionNo":"Export Control",
+        "p":[
+          "Any services, products, software, and technical information (including, but not limited to, services and training) provided pursuant to the Agreement may be subject to U.S. export Laws and regulations. Customer will not use distribute, transfer, or transmit the services, products, software, or technical information (even if incorporated into other products) except in compliance with U.S. and other applicable export regulations"
+        ]
+      }
+    ]
+    
+  }
+  
+]

@@ -1,0 +1,210 @@
+@import "../../../../public/assets/scss/variables";
+
+.testimonials {
+    margin: 200px 0 20px 0;
+    height: 600px;
+    position: relative;
+
+    .contentWrap {
+        h1 {
+            margin-bottom: 30px;
+        }
+
+        h6 {
+            text-transform: uppercase;
+            letter-spacing: 3px;
+        }
+    }
+
+    .imgWrap {
+        position: absolute;
+        right: 15%;
+        top: 0;
+        width: 500px;
+        height: 500px;
+        background-image: url(../../../../public/assets/images/plus-light-pattern.png);
+        background-repeat: no-repeat;
+        background-size: auto;
+        background-position: 40px bottom;
+
+        &::after {
+            content: "";
+            position: absolute;
+            right: 0px;
+            bottom: 60px;
+            background-image: url(../../../../public/assets/images/testimonial-right2.jpg);
+            background-repeat: no-repeat;
+            background-size: auto 100%;
+            width: 250px;
+            height: 200px;
+            z-index: 1;
+            border-radius: 20px;
+        }
+
+        img {
+            width: 100%;
+            height: auto;
+            border-radius: 20px;
+        }
+    }
+
+    .slide {
+        padding-right: 20px;
+        
+        .itemHolder {
+            position: relative;
+            padding-top: 60px;
+
+            .itemIcon {
+                svg {
+                    width: 100px;
+                    position: absolute;
+                    margin-top: -60px;
+                    margin-left: 20px;
+                    z-index: -1;
+                }
+
+                path {
+                    fill: #d8d8d8;
+                    opacity: .3;
+                }
+            }
+
+            .itemDesc {
+                font-size: 19px;
+                font-style: italic;
+                color: #8c8c8c;
+                font-family: serif;
+                margin-bottom: 40px;
+            }
+        }
+
+        .itemBottom {
+            display: flex;
+
+            .itemImage {
+                width: 85px;
+                float: left;
+                margin-right: 20px;
+                border-color: #e2e2e2;
+                position: relative;
+
+                img {
+                    border-radius: 50%;
+                    max-width: 100%;
+                    height: auto;
+                }
+            }
+
+            .itemMeta {
+                padding-top: 15px;
+
+                .itemTitle {
+                    color: #152E4A;
+                    font-size: 19px;
+                    font-weight: 600;
+                    letter-spacing: 0px;
+                    text-transform: none;
+                }
+
+                .itemPosition {
+                    font-size: 12px;
+                    font-style: normal;
+                    color: #82C7E6;
+                }
+            }
+        }
+    }
+}
+
+
+.certification {
+    margin-bottom: 60px;
+
+    .benefit2 {
+        display: flex;
+        width: 50%;
+        padding: 0 40px;
+        margin-top: 40px;
+
+        .itemIcon{
+            width: 60px;
+            margin-bottom: 20px;
+            margin-left: auto;
+            margin-right: 20px;
+            position: relative;
+            font-size: 40px;
+            font-weight: bold;
+            line-height: 36px;
+    
+            &::after {
+                content: "";
+                position: absolute;
+                left: -28px;
+                top: -28px;
+                width: 60px;
+                height: 60px;
+                background-color: #F5F8FA;
+                z-index: -1;
+                border-radius: 50%;
+            }
+        }
+
+        .content {
+            h1 {
+                font-size: 20px;
+            }
+        }
+    }
+}
+
+.clientLogo {
+    margin-bottom: 100px;
+
+    .clientLogoWrap {
+        position: relative;
+        padding: 40px 80px;
+
+        &::after {
+            content: "";
+            position: absolute;
+            left: 0px;
+            top: 0px;
+            width: 100%;
+            height: 100%;
+            background-color: #F5F8FA;
+            z-index: -1;
+            border-radius: 100px;
+        }
+
+        
+        .slide {
+            text-align: center;
+            height: 45px;
+            position: relative;
+
+            img {
+                height: 35px;
+                width: auto;
+                display: inline-block;
+                position: absolute;
+                top: 50%;
+                left: 50%;
+                -webkit-transform: translate(-50%, -50%);
+                -moz-transform: translate(-50%, -50%);
+                -o-transform: translate(-50%, -50%);
+                -ms-transform: translate(-50%, -50%);
+                transform: translate(-50%, -50%);
+            }
+
+            .cisco, 
+            .polycom {
+                height: 50px;
+            }
+        }
+    }
+}
+
+
+
+

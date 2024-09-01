@@ -1,0 +1,51 @@
+.mobile-munu-link{
+    transition: all ease-in-out 300ms;
+}
+.mobile-munu-link a{
+    /* color: red !important; */
+    font-weight: 400 !important;
+    font-family: 'Ubuntu', sans-serif;
+  
+
+}
+
+.mobile-munu-dropdown{
+    background: transparent;
+    border: none;
+    padding: 10px 0px;
+    transition: all ease-in-out 300ms;
+
+}
+.mobile-munu-dropdown .select-item{
+    color: rgb(21, 46, 74) !important;
+}
+.mobile-munu-dropdown:hover{
+    color: white;
+}
+
+.mobile-munu-link:hover{
+    color: white !important;
+    background-color: #82c7e6 ;
+    /* $body-font: 'Ubuntu', sans-serif; */
+/* $heading-font: 'Ubuntu', sans-serif; */
+
+    /* box-shadow: 2px 1px 4px 1px #ccc; */
+    padding-left: 5%;
+    border-radius: 25px;
+}
+
+.mobile-munu-link:hover a{
+    color: white !important;
+    /* background-color: #82c7e6 ; */
+    /* box-shadow: 2px 1px 4px 1px #ccc; */
+    /* padding-left: 5%; */
+}
+
+.socialicon {
+    color: rgb(21, 46, 74) !important;
+    transition: all ease-in-out 300ms;
+}
+
+.socialicon:hover {
+    color: #82c7e6  !important;
+}

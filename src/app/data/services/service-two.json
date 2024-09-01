@@ -1,0 +1,117 @@
+[
+  {
+    "id": "1",
+    "title": {
+      "en":"Cloud Based System",
+      "es":"Sistema basado en la nube",
+      "fr":"Système basé sur le cloud"
+    },
+    "text": {
+      "en":"We take care of the phone system in our fully redundant data center. All you need are IP phones that plug directly into the internet via your existing network.",
+      "es":"Nos encargamos del sistema telefónico en nuestro centro de datos totalmente redundante. Todo lo que necesita son teléfonos IP que se conectan directamente a Internet a través de su red existente.",
+      "fr":"Nous nous occupons du système téléphonique dans notre centre de données entièrement redondant. Tout ce dont vous avez besoin, ce sont des téléphones IP qui se connectent directement à Internet via votre réseau existant."
+    },
+    "icon": "cloud_base.gif"
+  },
+  {
+    "id": "2",
+    "title": {
+      "en":"Virtual Receptionist",
+      "fr":"Réceptionniste virtuelle",
+      "es":"recepcionista virtual"
+    },
+    "text": {
+      "en":"Improve your customer experience with a professional greeting and route them to any employee, department or any other destination like a cell phone.",
+      "fr":"Améliorez votre expérience client avec un accueil professionnel et acheminez-les vers n'importe quel employé, service ou toute autre destination comme un téléphone portable.",
+      "es":"Mejore la experiencia de sus clientes con un saludo profesional y diríjalos a cualquier empleado, departamento o cualquier otro destino como un teléfono celular."
+    },
+    "icon": "VirtualReceptionist.gif"
+  },
+  {
+    "id": "3",
+    "title": {
+      "en":"Web Management",
+      "es":"Gestión Web",
+      "fr":"Gestion Web"
+    },
+    "text": {
+      "en":"Our simple to use portal allows you to access your features and settings 24/7 via the web. Make simple changes or even choose to give your employees access to manage find-me-follow-me",
+      "fr":"Notre portail simple à utiliser vous permet d'accéder à vos fonctionnalités et paramètres 24h/24 et 7j/7 via le Web. Effectuez des modifications simples ou choisissez même de donner à vos employés un accès pour gérer le trouvez-moi-suivez-moi",
+      "es":"Nuestro portal fácil de usar le permite acceder a sus funciones y configuraciones las 24 horas del día, los 7 días de la semana a través de la web. Realice cambios simples o incluso elija dar acceso a sus empleados para administrar Find-Me-Follow-Me"
+    },
+    "icon": "WebManagement.gif"
+  },
+  {
+    "id": "4",
+    "title": {
+      "en":"Unified Messaging",
+      "es":"Mensajería unificada",
+      "fr":"Messagerie unifiée"
+    },
+    "text": {
+      "en":"Combine all your voicemail into one place for easier management. Choose to see your messages on our online portal or have them forwarded ",
+      "es":"Combine todo su correo de voz en un solo lugar para facilitar la administración. Elija ver sus mensajes en nuestro portal en línea o reenviarlos",
+      "fr":"Combinez tous vos messages vocaux en un seul endroit pour une gestion plus facile. Choisissez de voir vos messages sur notre portail en ligne ou de les faire suivre"
+    },
+    "icon": "UnifiedMessaging.gif"
+  },
+  {
+    "id": "5",
+    "title": {
+      "en":"Cost Effective",
+      "es":"Económico",
+      "fr":"Rentable"
+    },
+    "text": {
+      "en":"BESANZ’s Hosted Phone System provides the features and management control of a premise based phone system, without the upfront investment and ongoing support costs a PBX or Key System requires. BESANZ Hosted solution provides a lower total cost of ownership than premise based or Centrex solutions.",
+      "es":"El sistema telefónico alojado de BESANZ proporciona las funciones y el control de gestión de un sistema telefónico local, sin la inversión inicial y los costos de soporte continuos que requiere un PBX o Key System. La solución alojada de BESANZ proporciona un costo total de propiedad más bajo que las soluciones basadas en premisas o Centrex.",
+      "fr":"Le système téléphonique hébergé de BESANZ fournit les fonctionnalités et le contrôle de gestion d'un système téléphonique sur site, sans l'investissement initial et les coûts de support continus requis par un PBX ou un système à clé. La solution hébergée BESANZ offre un coût total de possession inférieur à celui des solutions sur site ou Centrex."
+    },
+    "icon": "CostEffective.gif"
+  },
+  {
+    "id": "6",
+    "title": {
+      "en":"Feature Rich",
+      "es":"Rico en funciones",
+      "fr":"Riche en fonctionnalités"
+    },
+    "text": {
+      "en":"Our Hosted Phone System is available with all features and no restrictions at no extra cost to you. Greet callers with a professional recording and voice menu, automatically route them to departments, enable “follow me” call routing, receive voicemail in your email box and much more. Enjoy Enterprise features at a Small Business price.",
+      "es":"Nuestro sistema telefónico alojado está disponible con todas las funciones y sin restricciones sin costo adicional para usted. Reciba a las personas que llaman con una grabación profesional y un menú de voz, diríjalas automáticamente a los departamentos, habilite el enrutamiento de llamadas 'sígueme', reciba mensajes de voz en su casilla de correo electrónico y mucho más. Disfrute de funciones empresariales a un precio de pequeña empresa",
+      "fr":"Notre système téléphonique hébergé est disponible avec toutes les fonctionnalités et aucune restriction sans frais supplémentaires pour vous. Accueillez les appelants avec un enregistrement professionnel et un menu vocal, acheminez-les automatiquement vers les services, activez le routage des appels « suivez-moi », recevez des messages vocaux dans votre boîte e-mail et bien plus encore. Profitez des fonctionnalités d'entreprise au prix d'une petite entreprise"
+    },
+    "icon": "FeatureRich.gif"
+  },
+  {
+    "id": "7",
+    "title": {
+      "en":"Fully Managed",
+      "es":"Totalmente administrado",
+      "fr":"Entièrement géré"
+    },
+    "text": {
+      "en":"BESANZ tailors your services to your exact requirements and delivers a Hassle Free, All Inclusive Hosted Phone System. As a fully managed solution there is no need to source your service, hardware, installation and maintenance from different vendors. We handle the details so you can focus on what’s important: Your Business.",
+      "es":"BESANZ adapta sus servicios a sus requisitos exactos y ofrece un sistema telefónico alojado sin complicaciones y todo incluido. Como solución completamente administrada, no es necesario obtener su servicio, hardware, instalación y mantenimiento de diferentes proveedores. Nos encargamos de los detalles para que pueda centrarse en lo importante: su negocio.",
+      "fr":"BESANZ adapte vos services à vos besoins précis et offre un système téléphonique hébergé tout compris sans tracas. En tant que solution entièrement gérée, il n'est pas nécessaire de vous procurer votre service, votre matériel, votre installation et votre maintenance auprès de différents fournisseurs. Nous nous occupons des détails afin que vous puissiez vous concentrer sur ce qui est important : votre entreprise."
+    },
+    "icon": "FullyManaged.gif"
+  },
+  {
+    "id": "8",
+    "title": {
+      "en":"Seamless Transition",
+      "es":"Transición sin problemas",
+      "fr":"Transition en douceur"
+     
+    },
+    "text": {
+      "en":"BESANZ voice services are incredibly easy to implement, manage, and use. Plus, choosing BESANZ as your telecom provider requires no changes to your existing phone numbers, including Direct Inward Dial (DID) and toll-free number.",
+      "es":"Los servicios de voz de BESANZ son increíblemente fáciles de implementar, administrar y usar. Además, elegir a BESANZ como su proveedor de telecomunicaciones no requiere cambios en sus números de teléfono existentes, incluido el Direct Inward Dial (DID) y el número gratuito.",
+
+      "fr":"Les services vocaux BESANZ sont incroyablement faciles à mettre en œuvre, à gérer et à utiliser. De plus, choisir BESANZ comme fournisseur de télécommunications ne nécessite aucune modification de vos numéros de téléphone existants, y compris la numérotation directe à l'arrivée (DID) et le numéro sans frais."
+    },
+    "icon": "SeamlessTransition.gif"
+  }
+  
+]

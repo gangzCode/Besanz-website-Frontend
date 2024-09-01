@@ -1,0 +1,47 @@
+
+.topbarr {
+    height: 40px !important;
+    background-color: #82c7e6 !important;
+    padding-top: 10px !important;
+    color: #152e4a !important;
+}
+
+.topbarr .container {
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.topbar-link {
+    font-weight: 600;
+    color: rgb(21, 46, 74);
+    padding-left: 30px;
+    font-size: 14px;
+}
+
+.topbar-link svg {
+    margin-top: -5px;
+}
+
+.topbar-link:hover{
+    color: white !important;
+    transition: all ease-in-out 500ms;
+    cursor: pointer;
+}
+
+.select{
+    background-color: transparent;
+    border: none;
+    margin-top: -2px !important;
+    padding: 0;
+    font-weight: 600;
+    color: rgb(21, 46, 74);
+    font-size: 14px;
+}
+.select-item{
+    background-color: white !important;
+    width: 300px !important;
+}
+.select-item:hover{
+    color: white !important;
+    background-color: #152e4a !important;
+}

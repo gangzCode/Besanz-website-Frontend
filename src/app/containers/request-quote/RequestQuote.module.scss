@@ -1,0 +1,114 @@
+@import "../../../../public/assets/scss/variables";
+
+.requestQuote {
+    height: 800px;
+    margin-bottom: 60px;
+    position: relative;
+    background-image: url(../../../../public/assets/images/bg-img2.png);
+    background-repeat: no-repeat;
+    background-size: 90% 100%;
+    background-position: right;
+
+    .requestQuoteWrap {
+        padding: 100px 0 100px 140px;
+
+        .contactDetails {
+            margin-top: 60px;
+        }
+
+        .contactDetailsWrap {
+            margin-bottom: 40px;
+
+            p {
+                margin-bottom: 0;
+
+                a {
+                    color: #035F91;
+                }
+            }
+        }
+    }
+}
+
+.inputBox {
+    input {
+        width: 100%;
+        height: 50px;
+        margin-bottom: 20px;
+        padding: 0 20px;
+
+        color: #152E4A;
+        border: 1px solid #82C7E6;
+        border-radius: 50px;
+        background: #F5F8FA none repeat scroll 0 0;
+        font-size: 14px;
+
+        &:focus {
+            border: 1px solid #152E4A;
+        }
+    }
+    textarea {
+        width: 100%;
+        min-height: 143px;
+        margin-bottom: 30px;
+        padding: 20px;
+
+        resize: none;
+
+        color: #035F91;
+        border: 1px solid #82C7E6;
+        border-radius: 50px;
+        background: #F5F8FA none repeat scroll 0 0;
+        font-size: 14px;
+
+        &:focus {
+            border: 2px solid #152E4A;
+        }
+    }
+
+    .qusBtn {
+        margin-top: 40px;
+    }
+}
+
+.inputBox input::-webkit-input-placeholder {
+    opacity: 1;
+    color: #82C7E6;
+}
+
+.inputBox input::-moz-placeholder {
+    opacity: 1;
+    color: #82C7E6;
+}
+
+.inputBox input:-ms-input-placeholder {
+    opacity: 1;
+    color: #82C7E6;
+}
+
+.inputBox input:-moz-placeholder {
+    opacity: 1;
+    color: #82C7E6;
+}
+
+.inputBox textarea::-webkit-input-placeholder {
+    opacity: 1;
+    color: #82C7E6;
+}
+
+.inputBox textarea::-moz-placeholder {
+    opacity: 1;
+    color: #82C7E6;
+}
+
+.inputBox textarea:-ms-input-placeholder {
+    opacity: 1;
+    color: #82C7E6;
+}
+
+.inputBox textarea:-moz-placeholder {
+    opacity: 1;
+    color: #82C7E6;
+}
+
+

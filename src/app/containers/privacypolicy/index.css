@@ -1,0 +1,15 @@
+.privacy-policy{
+    padding-top: 2%;
+  
+}
+.privacy-policy .content h2 {
+     font-size: 28px;
+    color: #152e4a !important;
+    margin-top: 30px;
+}
+
+.privacy-policy .content p {
+    font-size: 14px;
+    color: #152e4a !important;
+    margin-bottom: 0px !important;
+}

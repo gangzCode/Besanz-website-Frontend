@@ -1,0 +1,21 @@
+{
+    "title":"Demandez un devis aujourd'hui !",
+    "subtitle":"Demandez un devis gratuit et sans engagement dès aujourd'hui",
+    "firstName":"Prénom",
+    "lastName":"Nom de famille",
+    "workEmail":"email de travail",
+    "companyName":"Nom de la compagnie",
+    "Next":"suivant",
+    "PhoneNumber":"Numéro de téléphone",
+    "CompanyCRM":"GRC d'entreprise",
+    "NumberOfUsers":"Nombre d'utilisateurs",
+    "marketingCheck":"Oui, je souhaite recevoir des communications marketing sur les produits Besanz, le contenu des connaissances et les événements",
+    "privacyPolicyCheck":"Vous confirmez que vous avez lu et accepté la politique de Besanz",
+    "privacyPolicy":"Politique de confidentialité",
+    "requestQuote":"Solicitud de cotización",
+    "Name":"nom",
+    "eMail":"e-mail",
+    "Brand": "La solution de téléphone d'affaires la plus intelligente d'Amérique du Nord",
+    "description":"Notre système téléphonique hébergé dans le cloud rationalise la communication, améliore la productivité et réduit les coûts. Obtenez notre solution de téléphonie professionnelle 100 % basée sur le cloud avec des fonctionnalités avancées, une évolutivité et une fiabilité."
+
+}

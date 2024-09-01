@@ -1,0 +1,56 @@
+{
+  "id": "1",
+  "backgroundImage": "2.jpg",
+  "serviceTitle": {
+    "en":"HOW DO YOU GROW AS A BUSINESS?",
+    "fr":"COMMENT CROISSEZ-VOUS EN TANT QU'ENTREPRISE ?",
+    "es":"¿CÓMO CRECER COMO EMPRESA?"
+  },
+  "serviceContent": {
+    "en":"It’s not just by having customers!",
+    "fr":"Ce n'est pas seulement en ayant des clients !",
+    "es":"¡No es solo por tener clientes!"
+  },
+
+  "serviceContent2": {
+    "en":"It’s about the CUSTOMER EXPERIENCE!",
+    "fr":"Il s'agit de l'EXPÉRIENCE CLIENT !",
+    "es":"¡Se trata de la EXPERIENCIA DEL CLIENTE!"
+  } ,
+
+ 
+  "serviceContent3": {
+    "en":"A 100% cloud-based phone solution specially designed for your business!",
+    "fr":"Une solution de téléphonie 100% cloud spécialement conçue pour votre entreprise !",
+    "es":"¡Una solución telefónica 100% basada en la nube especialmente diseñada para su negocio!"
+  } ,
+  "serviceContent4": {
+    "en":"Now Imagine, serving your customers by NAME from the ring." ,
+    "fr":"Imaginez maintenant, servir vos clients par NOM depuis le ring",
+    "es":"Ahora imagina, atender a tus clientes por NOMBRE desde el ring"
+  },
+  "serviceContent5": {
+    "en":"Giving your employees the much-needed information and empowering them to have better business conversations, solutions and beyond!",
+    "fr":"Donner à vos employés les informations dont ils ont tant besoin et leur donner les moyens d'avoir de meilleures conversations professionnelles, des solutions et bien plus encore !",
+    "es":"Brindando a sus empleados la información que tanto necesitan y capacitándolos para tener mejores conversaciones comerciales, soluciones y más."
+  } ,
+  "serviceContent6": {
+    "en":"We at Besanz are on a mission to transform your business with powerful tools that automate, integrate and the ability to collaborate amongst your team and giving you the cutting edge by providing you with custom built analytics that help you grow as a business!",
+    "fr":"Chez Besanz, nous avons pour mission de transformer votre entreprise avec des outils puissants qui automatisent, intègrent et la capacité de collaborer au sein de votre équipe et vous donnent la pointe en vous fournissant des analyses personnalisées qui vous aident à grandir en tant qu'entreprise !",
+    "es":"¡En Besanz tenemos la misión de transformar su negocio con herramientas poderosas que automatizan, integran y la capacidad de colaborar entre su equipo y brindarle la vanguardia al proporcionarle análisis personalizados que lo ayudan a crecer como negocio!"
+  } ,
+  "serviceContent7": {
+    "en":"All this, with just one mission in mind.  Your customers and their experience. Are you ready to be empowered?",
+    "fr":"Tout cela, avec une seule mission en tête. Vos clients et leur expérience. Êtes-vous prêt à être responsabilisé ?",
+    "es":"Todo esto, con una sola misión en mente. Tus clientes y su experiencia. ¿Estás listo para empoderarte?"
+  },
+  "serviceContent8" : {
+    "en":"Besanz was built to serve you to serve better!",
+    "fr":"Besanz a été construit pour vous servir pour mieux servir !",
+    "es":"¡Besanz fue construido para servirle a usted para servir mejor!"
+  },
+  "serviceContentIcon": "v1.png",
+  "videoId": "LOHfKSmWXVM"
+}
+
+

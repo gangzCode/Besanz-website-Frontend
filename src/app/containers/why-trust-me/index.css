@@ -1,0 +1,67 @@
+.slick-dots {
+  bottom: -30px !important;
+  width: auto !important;
+}
+
+.slick-dots li {
+  margin: 0 !important;
+}
+
+.slick-dots li {
+  width: 14px !important;
+}
+
+.slick-dots li button::before {
+  font-size: 8px !important;
+  color: #82c7e6 !important;
+}
+
+.slick-dots li.slick-active button::before {
+  color: #152e4a !important;
+}
+
+.testimonials-warap  .slick-arrow {
+  display: none !important;
+}
+
+.slick-next::before,
+.slick-prev::before {
+  display: none;
+}
+
+.slick-next::after {
+  content: "";
+  transform: rotate(135deg);
+  display: block;
+  width: 18px;
+  height: 18px;
+  position: relative;
+  right: 0;
+  transition: all 0.25s;
+  border-top: 2px solid #152E4A;
+  border-left: 2px solid #152E4A;
+}
+
+.slick-next:hover::after {
+  position: relative;
+  right: -8px;
+}
+
+.slick-prev::after {
+  content: "";
+  transform: rotate(-45deg);
+  display: block;
+  width: 18px;
+  height: 18px;
+  position: relative;
+  left: 0;
+  transition: all 0.25s;
+  border-top: 2px solid #152E4A;
+  border-left: 2px solid #152E4A;
+}
+
+.slick-prev:hover::after {
+  position: relative;
+  left: -8px;
+}
+
